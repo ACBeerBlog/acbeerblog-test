@@ -1,4 +1,4 @@
-baseurl = "https://notacbeerblog.mumblecrunch.ca/beautifulhugo/"
+baseurl = "https://notacbeerblog.mumblecrunch.ca/"
 DefaultContentLanguage = "en"
 title = "Not (Yet) ACBeerBlog.Ca"
 theme = "beautifulhugo"
