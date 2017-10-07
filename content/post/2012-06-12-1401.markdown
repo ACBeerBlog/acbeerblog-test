@@ -1,0 +1,14 @@
+---
+author: acbbgreg
+categories:
+- Atlantic Canada Beer News
+comments: true
+date: 2012-06-12T20:53:38Z
+link: http://acbeerblog.ca/2012/06/12/1401/
+slug: "1401"
+title: Canadian Brewing Awards to take place this Friday and Saturday in Montreal
+  - updated June 12th
+url: /2012/06/12/1401/
+wordpress_id: 1401
+---
+

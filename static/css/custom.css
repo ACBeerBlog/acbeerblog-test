@@ -1,0 +1,14 @@
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+   color: #808080;
+   font-size: 85%;
+   font-style: italic;
+   margin: 0 0 10px;
+}
+
+figcaption p {
+        margin: auto; /* override style in theme */
+        font-size: 75%;
+    }
+}

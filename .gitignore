@@ -1,0 +1,5 @@
+# Ignore the public directory (build target)
+public/
+
+# Ignore the local deploy script
+deploy_a_hugo.sh
