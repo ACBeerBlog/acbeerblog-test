@@ -53,29 +53,37 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
-    name = "Atlantic Canadian Beer Map"
-    url = "page/the-brewnosers-atlantic-canada-good-beer-map"
+    identifier = "resources"
+    name = "Resources"
     weight = 2
 
 [[menu.main]]
-    name = "Calendar"
-    url = "page/calendar-of-events"
-    weight = 3
+    parent = "resources"
+    name = "Atlantic Canada Good Beer Map"
+    url = "page/the-brewnosers-atlantic-canada-good-beer-map"
+    weight = 1
 
 [[menu.main]]
+    parent = "resources"
+    name = "Calendar of Events"
+    url = "page/calendar-of-events"
+    weight = 2
+
+[[menu.main]]
+    parent = "resources"
     name = "Growlers"
     url = "page/growlers"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "About"
     url = "page/about"
-    weight = 5
+    weight = 3
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 6
+    weight = 4
 
 #[[menu.main]]
 #    identifier = "samples"
