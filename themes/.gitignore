@@ -1,8 +1,0 @@
-# We're not using the data/ dir (yet), but let's not give hugo anything to 
-# complain about during the build.
-
-# ignore all files in this dir...
-*
-
-# ... except for this one.
-!.gitignore
