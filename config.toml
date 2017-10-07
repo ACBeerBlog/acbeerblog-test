@@ -53,14 +53,29 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "Atlantic Canadian Beer Map"
+    url = "page/the-brewnosers-atlantic-canada-good-beer-map"
+    weight = 2
+
+[[menu.main]]
+    name = "Calendar"
+    url = "page/calendar-of-events"
     weight = 3
+
+[[menu.main]]
+    name = "Growlers"
+    url = "page/growlers"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "page/about"
+    weight = 5
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 6
 
 #[[menu.main]]
 #    identifier = "samples"
