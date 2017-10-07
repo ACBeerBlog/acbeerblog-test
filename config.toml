@@ -1,6 +1,6 @@
-baseurl = "https://notacbeerblog.mumblecrunch.ca/"
+baseurl = "https://notquiteacbeerblog.mumblecrunch.ca/"
 DefaultContentLanguage = "en"
-title = "Not (Yet) ACBeerBlog.Ca"
+title = "Not (Quite) ACBeerBlog.Ca"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
