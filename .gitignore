@@ -3,3 +3,6 @@ public/
 
 # Ignore the local deploy script
 deploy_a_hugo.sh
+
+# Ignore the local config file for local testing
+config-localtesting.toml
