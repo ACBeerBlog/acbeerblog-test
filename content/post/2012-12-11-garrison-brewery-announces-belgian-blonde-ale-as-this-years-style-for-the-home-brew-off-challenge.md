@@ -26,4 +26,4 @@ The winning entry in 2012 was submitted by Lunenberg native Kellye Robertson. He
 
 ________________________________________________________________________________________________________
 
-There is additional information on [this info sheet](http://www.garrisonbrewing.com/accounts/garrison/websites/garrisonbrewing.com/website_files/2013%20Garrison%20Brew-Off%20Info%20Sheet.pdf).  Here is a link to the [Registration & Brew Sheet](http://www.garrisonbrewing.com/accounts/garrison/websites/garrisonbrewing.com/website_files/2013%20Garrison%20Brew-Off%20Registration%20&%20Brew%20Sheet.pdf).
+There is additional information on [this info sheet](http://www.garrisonbrewing.com/accounts/garrison/websites/garrisonbrewing.com/website_files/2013%20Garrison%20Brew-Off%20Info%20Sheet.pdf).  Here is a link to the [Registration & Brew Sheet](http://www.garrisonbrewing.com/accounts/garrison/websites/garrisonbrewing.com/website_files/2013%20Garrison%20Brew-Off%20Registration%20&%20Brew%20Sheet.pdf).

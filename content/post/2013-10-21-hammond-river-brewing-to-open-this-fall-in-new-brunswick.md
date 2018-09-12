@@ -44,7 +44,7 @@ At first, I plan on dispensing my beer in 20 litre kegs only, and will be distri
 **Do you already have some beer bars/restaurants in the Saint John area lined up to serve your beers?**
 
 
-Yes, I currently have four local establishments that will be serving my beers on tap.  My initial launch will be at the [Saint John Ale House](http://www.saintjohnalehouse.com/), but [Bourbon Quarter](https://www.facebook.com/bourbonquarter), [The Barrel's Head](https://www.facebook.com/TheBarrelsHead), and [The Shiretown Publicans](https://www.facebook.com/ShiretownPublicans) will also be serving my beers.
+Yes, I currently have four local establishments that will be serving my beers on tap.  My initial launch will be at the [Saint John Ale House](http://www.saintjohnalehouse.com/), but [Bourbon Quarter](https://www.facebook.com/bourbonquarter), [The Barrel's Head](https://www.facebook.com/TheBarrelsHead), and [The Shiretown Publicans](https://www.facebook.com/ShiretownPublicans) will also be serving my beers.
 
 
 
@@ -93,7 +93,7 @@ Greg Nash [of [Rockbottom](http://rockbottombrewpub.ca/) and [The Hart & Thistle
 
 
 
-Hmmm, that's a very good question.  There are so many fantastic breweries in Atlantic Canada right now.  What I will say is that I'm a hophead at heart, so I'll be focusing mainly on West Coast style beers.
+Hmmm, that's a very good question.  There are so many fantastic breweries in Atlantic Canada right now.  What I will say is that I'm a hophead at heart, so I'll be focusing mainly on West Coast style beers.
 
 
 
@@ -109,7 +109,7 @@ Hmmm, that's a very good question.  There are so many fantastic breweries in At
 
 
 
-To be honest, I really haven't put too much thought into where I see Hammond River Brewing in a few years.  My biggest goal is to not to grow too big, too fast.  Right now, I am just concentrating on making some fantastic craft beers for beer lovers in the Saint John and surrounding areas.  I'll see where everything takes me in the future and take it from there.
+To be honest, I really haven't put too much thought into where I see Hammond River Brewing in a few years.  My biggest goal is to not to grow too big, too fast.  Right now, I am just concentrating on making some fantastic craft beers for beer lovers in the Saint John and surrounding areas.  I'll see where everything takes me in the future and take it from there.
 
 
 
@@ -141,7 +141,7 @@ While I generally like most styles of beer, I definitely gravitate towards West 
 
 
 
-Absolutely.  I'm a HUGE fan of Amarillo hops!  I just love the orange citrusy flavour and aroma that it brings to a nice APA or IPA.  Unfortunately, it's not always an easy hop to get.
+Absolutely.  I'm a HUGE fan of Amarillo hops!  I just love the orange citrusy flavour and aroma that it brings to a nice APA or IPA.  Unfortunately, it's not always an easy hop to get.
 
 
 

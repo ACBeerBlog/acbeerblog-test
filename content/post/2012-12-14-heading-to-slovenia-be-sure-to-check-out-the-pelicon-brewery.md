@@ -14,7 +14,7 @@ url: /2012/12/14/heading-to-slovenia-be-sure-to-check-out-the-pelicon-brewery/
 wordpress_id: 2338
 ---
 
-I normally keep the content on this blog to the local scene but when someone from Slovenia reaches out to me I'm ready to do a post.  Matej Pelicon, the Head Brewer for Pelicon Brewery, recently sent me the following email.  Whenever you're in Ajdovščina (sounds like Out-of-China), on the West side of Slovenia, be sure to check them out.
+I normally keep the content on this blog to the local scene but when someone from Slovenia reaches out to me I'm ready to do a post.  Matej Pelicon, the Head Brewer for Pelicon Brewery, recently sent me the following email.  Whenever you're in Ajdovščina (sounds like Out-of-China), on the West side of Slovenia, be sure to check them out.
 
 Hello fellow craft beer lovers,
 

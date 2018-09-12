@@ -21,7 +21,7 @@ wordpress_id: 9958
 
 
 
-[Sober Island Brewing Company](https://www.facebook.com/soberislandbrewing/) will be launching at this weekend's [Saltscapes Expo](http://www.saltscapes.com/expo/), at Halifax Exhibition Centre (formerly Exhibition Park). Ahead of their entrance to the Atlantic Canadian beer scene, we wanted to catch up with owner Rebecca Atkinson and brewer Jonathan Primack on their brewery, beers, and plans for the future.
+[Sober Island Brewing Company](https://www.facebook.com/soberislandbrewing/) will be launching at this weekend's [Saltscapes Expo](http://www.saltscapes.com/expo/), at Halifax Exhibition Centre (formerly Exhibition Park). Ahead of their entrance to the Atlantic Canadian beer scene, we wanted to catch up with owner Rebecca Atkinson and brewer Jonathan Primack on their brewery, beers, and plans for the future.
 
 
 
@@ -30,8 +30,8 @@ wordpress_id: 9958
 
 
 **ACBB: Can you tell us a little bit about yourselves?
-**Rebecca: I'm 26, was born in Cardiff, Wales and moved to the town of Sheet Harbour around age four; so, I've really grown up here pretty much my whole life. When I left the community to go to school, I really wasn't sure what I wanted to do. I went into sciences first, then decided to try out the Tourism Management program at [NSCC](http://www.nscc.ca/learning_programs/programs/PlanDescr.aspx?prg=TMAN&pln=TMAN-Y1) and finally found what I love: food and beverage. I continued my education in a business degree of Tourism and Hospitality management at [Mount Saint Vincent University](http://www.msvu.ca/en/home/programsdepartments/professionalstudies/tourismhospitality/default.aspx) and completed that. For a few years I worked on and off serving at different restaurants, and found a love for beer when I began working at [Noble Grape](http://noblegrape.ca/). After moving around different places and always ending up back in [Sheet Harbour](https://en.wikipedia.org/wiki/Sheet_Harbour,_Nova_Scotia), I knew that was my home; the plan was to work in the summer and travel in the winter. I went on my first winter travel to Wales, saw an Oyster Stout on tap and that's where the journey began for me! I love food, drink, and where I live, so this is me wrapping up all of my passions into one opportunity for me and my community.
-Jonathan: I have been home brewing for many years, but got into all grain brewing three years ago. I'm also a foodie and love hands-on hobbies including food and beverage.
+**Rebecca: I'm 26, was born in Cardiff, Wales and moved to the town of Sheet Harbour around age four; so, I've really grown up here pretty much my whole life. When I left the community to go to school, I really wasn't sure what I wanted to do. I went into sciences first, then decided to try out the Tourism Management program at [NSCC](http://www.nscc.ca/learning_programs/programs/PlanDescr.aspx?prg=TMAN&pln=TMAN-Y1) and finally found what I love: food and beverage. I continued my education in a business degree of Tourism and Hospitality management at [Mount Saint Vincent University](http://www.msvu.ca/en/home/programsdepartments/professionalstudies/tourismhospitality/default.aspx) and completed that. For a few years I worked on and off serving at different restaurants, and found a love for beer when I began working at [Noble Grape](http://noblegrape.ca/). After moving around different places and always ending up back in [Sheet Harbour](https://en.wikipedia.org/wiki/Sheet_Harbour,_Nova_Scotia), I knew that was my home; the plan was to work in the summer and travel in the winter. I went on my first winter travel to Wales, saw an Oyster Stout on tap and that's where the journey began for me! I love food, drink, and where I live, so this is me wrapping up all of my passions into one opportunity for me and my community.
+Jonathan: I have been home brewing for many years, but got into all grain brewing three years ago. I'm also a foodie and love hands-on hobbies including food and beverage.
 
 
 
@@ -70,7 +70,7 @@ Jonathan: I have been home brewing for many years, but got into all grain brew
 
 
 **What are your plans for distribution?
-**We will be taking the converted horse trailer out to markets where we will sell samples and have a growler style service. We have tap accounts with two establishments within our area: The Henley House Pub and Restaurant (opening for the season May 5th), and the [Liscombe Lodge](http://www.liscombelodge.ca/) (after their opening, end of May). We are not currently licensed for on-site sales but hope to incorporate that into the expansion in the fall.
+**We will be taking the converted horse trailer out to markets where we will sell samples and have a growler style service. We have tap accounts with two establishments within our area: The Henley House Pub and Restaurant (opening for the season May 5th), and the [Liscombe Lodge](http://www.liscombelodge.ca/) (after their opening, end of May). We are not currently licensed for on-site sales but hope to incorporate that into the expansion in the fall.
 
 
 
@@ -83,7 +83,7 @@ Jonathan: I have been home brewing for many years, but got into all grain brew
 
 
 
-[caption id="attachment_9970" align="aligncenter" width="751"][![SoberIslandBeerTrailer, courtesy of https://www.instagram.com/soberislandbrewing/](http://acbeerblog.ca/wp-content/uploads/2017/04/SoberIslandBeerTrailer.jpg)](http://acbeerblog.ca/wp-content/uploads/2017/04/SoberIslandBeerTrailer.jpg) Sober Island Beer Trailer, courtesy of [@SoberIslandBrewing](https://www.instagram.com/soberislandbrewing/) on Instagram[/caption]
+[caption id="attachment_9970" align="aligncenter" width="751"][![SoberIslandBeerTrailer, courtesy of https://www.instagram.com/soberislandbrewing/](http://acbeerblog.ca/wp-content/uploads/2017/04/SoberIslandBeerTrailer.jpg)](http://acbeerblog.ca/wp-content/uploads/2017/04/SoberIslandBeerTrailer.jpg) Sober Island Beer Trailer, courtesy of [@SoberIslandBrewing](https://www.instagram.com/soberislandbrewing/) on Instagram[/caption]
 
 
 
@@ -91,7 +91,7 @@ Jonathan: I have been home brewing for many years, but got into all grain brew
 
 
 **Can you tell us about the beers you plan on offering initially?
-**Initially, we are offering the _Sober Island Oyster Stout_ and a 5.1% ABV _English Golden Rye Ale_. The Oyster Stout is 6.0% ABV, and features whole [Sober Island](https://www.facebook.com/Sober-Island-Oysters-270700776286057/) oysters added to the boil, shell and meat!  We will also provide The Henley House with their own private ale, a style you would typically find in Welsh pubs. We are focusing on English styles with an American influence. Once we get into the larger system, we will definitely be offering seasonals and one-offs, but for now, brewing on a small scale system, we want to ensure we can satisfy our tap contracts and still have enough product to take out in the trailer and attend events with.
+**Initially, we are offering the _Sober Island Oyster Stout_ and a 5.1% ABV _English Golden Rye Ale_. The Oyster Stout is 6.0% ABV, and features whole [Sober Island](https://www.facebook.com/Sober-Island-Oysters-270700776286057/) oysters added to the boil, shell and meat!  We will also provide The Henley House with their own private ale, a style you would typically find in Welsh pubs. We are focusing on English styles with an American influence. Once we get into the larger system, we will definitely be offering seasonals and one-offs, but for now, brewing on a small scale system, we want to ensure we can satisfy our tap contracts and still have enough product to take out in the trailer and attend events with.
 
 
 
@@ -109,7 +109,7 @@ Jonathan: I have been home brewing for many years, but got into all grain brew
 
 
 **Have you had any assistance from other breweries/people in Atlantic Canada (or elsewhere)?
-**All of the breweries in the province have been very helpful. We have had to reach out for advice on several things and everyone has been more than willing to help. In the beginning I read the blog on [imstartingacraftbrewery.com](http://imstartingacraftbrewery.com/), which I found very helpful as well. It's written by one of the men responsible for [Strange Fellows Brewing](https://strangefellowsbrewing.com/) in Vancouver, B.C. When I get the chance to go to B.C., I'll definitely be stopping in.
+**All of the breweries in the province have been very helpful. We have had to reach out for advice on several things and everyone has been more than willing to help. In the beginning I read the blog on [imstartingacraftbrewery.com](http://imstartingacraftbrewery.com/), which I found very helpful as well. It's written by one of the men responsible for [Strange Fellows Brewing](https://strangefellowsbrewing.com/) in Vancouver, B.C. When I get the chance to go to B.C., I'll definitely be stopping in.
 
 
 
@@ -153,4 +153,4 @@ Jonathan: I have been home brewing for many years, but got into all grain brew
 
 
 
-_Many thanks to Rebecca and Jonathan for spending some time answering our questions. Check out their [Facebook](https://www.facebook.com/soberislandbrewing/), [Twitter](https://twitter.com/soberislandbrew), and [Instagram](https://www.instagram.com/soberislandbrewing/) pages for more pictures and to keep on top of their progress. They will even be live-streaming from this weekend's Saltscape Expo on [Periscope](https://www.periscope.tv/SoberIslandBrew). The Expo runs Friday 12-9pm, Saturday 10am-6pm, and Sunday 10am-5pm. Joining Sober Island will be [Bulwark Cider](http://www.bulwarkcider.com/), [Garrison Brewing](http://www.garrisonbrewing.com/), [Meander River](http://www.meanderriverfarm.ca/), [Rare Bird](http://www.rarebirdbeer.com/), and many more non-beer businesses ([full list here](http://www.saltscapes.com/expo/the-event/exhibitors)). After this weekend's launch, catch a collaboration brew between Sober Island and homebrewer Rhiannon Visser at May 8th's [Stillwell Open](http://www.barstillwell.com/), to tide you over until regular availability of their beer later in the month on the Eastern Shore._
+_Many thanks to Rebecca and Jonathan for spending some time answering our questions. Check out their [Facebook](https://www.facebook.com/soberislandbrewing/), [Twitter](https://twitter.com/soberislandbrew), and [Instagram](https://www.instagram.com/soberislandbrewing/) pages for more pictures and to keep on top of their progress. They will even be live-streaming from this weekend's Saltscape Expo on [Periscope](https://www.periscope.tv/SoberIslandBrew). The Expo runs Friday 12-9pm, Saturday 10am-6pm, and Sunday 10am-5pm. Joining Sober Island will be [Bulwark Cider](http://www.bulwarkcider.com/), [Garrison Brewing](http://www.garrisonbrewing.com/), [Meander River](http://www.meanderriverfarm.ca/), [Rare Bird](http://www.rarebirdbeer.com/), and many more non-beer businesses ([full list here](http://www.saltscapes.com/expo/the-event/exhibitors)). After this weekend's launch, catch a collaboration brew between Sober Island and homebrewer Rhiannon Visser at May 8th's [Stillwell Open](http://www.barstillwell.com/), to tide you over until regular availability of their beer later in the month on the Eastern Shore._

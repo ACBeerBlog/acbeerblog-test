@@ -16,7 +16,7 @@ wordpress_id: 2310
 
 [![pumphouse](http://acbeerblog.ca/wp-content/uploads/2012/11/pumphouse.png)](http://atlanticcanadabeerblog.wordpress.com/2012/11/25/the-story-of-pump-house-brewery-featured-in-winter-edition-of-occasions-magazine-nova-scotia-edition/pumphouse-5/)
 
-Pump House Brewery will be releasing a special edition Doppelbock to celebrate the 10th anniversary of its bottling plant.  Friday, December 7th at 5pm they will be tapping a Ferkin Keg of the brew and a bottled version of the beer will be available on ANBL shelves before Christmas for a limited time.  The beer is described as follows:**
+Pump House Brewery will be releasing a special edition Doppelbock to celebrate the 10th anniversary of its bottling plant.  Friday, December 7th at 5pm they will be tapping a Ferkin Keg of the brew and a bottled version of the beer will be available on ANBL shelves before Christmas for a limited time.  The beer is described as follows:**
 **
 
 
@@ -26,6 +26,6 @@ The colour is a very dark brown with a reddish tint, the foam is beige, thick an
 
 The phenolic taste from the high alcohol content is barely noticeable, an intense maltiness, which is accompanied by a pleasant dark chocolate taste, ties it all together.
 
-Hop bitterness is noticeable but not overpowering, as there is already enough bitterness from the dark malts.  A hint of citrussy hop aroma rounds the taste up.
+Hop bitterness is noticeable but not overpowering, as there is already enough bitterness from the dark malts.  A hint of citrussy hop aroma rounds the taste up.
 
 This beer harmonizes very well with hearty food like stews and game, but is also a good companion to sweet desserts like chocolate mousse or Creme Bavaroise.</blockquote>

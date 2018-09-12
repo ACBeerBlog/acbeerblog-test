@@ -57,7 +57,7 @@ We are offering growler fills (both 0.95 and 1.89 litres) on site, along with ta
 **Have you had any assistance from other breweries/people in Atlantic Canada (or elsewhere)?**
 Yes, I think it is really important to thank the guys at [Tidehouse Brewing Company](http://facebook.com/tidehousebrewingcompany/). We have sent them an awful lot of messages and questions and they have been extremely helpful and quick to give advice.
 Alan from [Meander River Farm and Brewery](http://www.meanderriverfarm.ca/) allowed us to spend a day there talking beer while he gave us tips and pointers, which were really helpful in completing our business plan.
-As fellow teachers, we made contact with [Schoolhouse Brewery](http://schoolhousebrewery.ca/) as well, and Cam was more than willing to talk beer with us, and give us advice that we really appreciated.
+As fellow teachers, we made contact with [Schoolhouse Brewery](http://schoolhousebrewery.ca/) as well, and Cam was more than willing to talk beer with us, and give us advice that we really appreciated.
 We have been blown away with the support other craft brewery have been willing to give us and are really excited to be part of this industry.
 
 **Where do you hope to see your brewery in the next few years?**
@@ -75,6 +75,6 @@ Between the four of us, we have been to a lot of craft breweries, especially bet
 **How about favourite style or ingredient to brew with?
 **I am a fan of heavily-hopped beers, and dark roasty beers. The **Citra** and **Chinook** hops are my favourite to work with, and our customers will taste that with our **Citra** _Session IPA_. We will also start off with a great Stout followed by a Porter and Brown ales, that will showcase my passion for dark beer.
 
-_Thanks to Jason and the Heritage crew for sitting down with us and giving us a behind-the-scenes look at their new brewery. As mentioned above, drop by the brewery today (and every Thursday) from 4-8PM and Saturdays 10-4PM to grab a taster and growler, and keep your eyes peeled on their [Facebook](https://www.facebook.com/HeritageBrewingCo/) and [Twitter](http://www.twitter.com/Heritagebrewery) pages, where they'll be sharing the newest beers available, and the details of their Grand Opening Party. Congratulations!_
+_Thanks to Jason and the Heritage crew for sitting down with us and giving us a behind-the-scenes look at their new brewery. As mentioned above, drop by the brewery today (and every Thursday) from 4-8PM and Saturdays 10-4PM to grab a taster and growler, and keep your eyes peeled on their [Facebook](https://www.facebook.com/HeritageBrewingCo/) and [Twitter](http://www.twitter.com/Heritagebrewery) pages, where they'll be sharing the newest beers available, and the details of their Grand Opening Party. Congratulations!_
 
 

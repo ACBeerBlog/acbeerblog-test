@@ -17,7 +17,7 @@ wordpress_id: 2537
 
 [![BigSpruceSign](http://acbeerblog.ca/wp-content/uploads/2013/03/bigsprucesign.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/03/bigsprucesign.jpg)Big Spruce Brewing is in Nyanza, just seconds off the Cabot Trail in Cape Breton, NS. Owners Jeremy and Melanie White are getting ready to open this month, so I dropped by recently when I was in the area.
 
-Since our [profile](http://atlanticcanadabeerblog.wordpress.com/2012/10/31/q-and-a-with-jeremy-white-from-big-spruce-brewing/) on them in the fall, there's been a lot of activity! They are putting the final touches on their purpose-built building, which is surrounded by acres organic hops plants they use in their beers.
+Since our [profile](http://atlanticcanadabeerblog.wordpress.com/2012/10/31/q-and-a-with-jeremy-white-from-big-spruce-brewing/) on them in the fall, there's been a lot of activity! They are putting the final touches on their purpose-built building, which is surrounded by acres organic hops plants they use in their beers.
 
 [![MashTunKettle](http://acbeerblog.ca/wp-content/uploads/2013/03/mashtunkettle.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/03/mashtunkettle.jpg)
 Their 7bbl gas-fired QualityBrew brewhouse from [DME](http://dmebrewing.ca/) is all set up, and they've done the cleaning and water testing and are ready to brew. They also have a great cold storage room for conditioning their beer in five tanks, as well as storing kegs. Speaking of which, they will have kegs available for accounts in Sydney, Halifax, and parts in between, so their beer will be available to drink across the province. They will also be selling 2L growlers from the brewery as production ramps up into high gear.

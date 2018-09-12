@@ -14,4 +14,4 @@ url: /2012/02/02/save-the-dates-halifax-seaport-beerfest-to-take-place-august-10
 wordpress_id: 424
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/02/beerfest-index-link.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/beerfest-index-link.jpg) The only information that I have on this year's Seaport Beerfest is confirmation of the dates via the festival's Twitter account ([@**SeaportBeerfest**](https://twitter.com/#%21/SeaportBeerfest)).  The [festival website](http://www.seaportbeerfest.com/) hasn't been updated as of yet but I will add more information as it is available.
+[![](http://acbeerblog.ca/wp-content/uploads/2012/02/beerfest-index-link.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/beerfest-index-link.jpg) The only information that I have on this year's Seaport Beerfest is confirmation of the dates via the festival's Twitter account ([@**SeaportBeerfest**](https://twitter.com/#%21/SeaportBeerfest)).  The [festival website](http://www.seaportbeerfest.com/) hasn't been updated as of yet but I will add more information as it is available.

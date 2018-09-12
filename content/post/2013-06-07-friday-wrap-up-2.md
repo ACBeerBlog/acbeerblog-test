@@ -20,12 +20,12 @@ Good morning, beer fans! Here's your weekly wrap-up of craft beer news in Atlant
 
 • For those of you who were itching to try some [Shiretown Beer](https://www.facebook.com/shiretown) Blonde du Quai, but weren't able to make it up to Charlo to purchase some bottles or buy it on tap, it looks like they're expanding to some more ANBL stores. Keep checking the [website](http://www.nbliquor.com/location.html?upc=400000024493+&submit.x=44&submit.y=15); as of this week, there were bottles of this [award-winning beer](http://atlanticcanadabeerblog.wordpress.com/2013/04/19/friday-wrap-up-20130419/) available at both the Bathurst and Fredericton York St. locations. Get it while you can!
 
-• [Big Spruce Brewing](https://www.facebook.com/BigSpruceBrewing) has released a new beer this week, their Regatta Red. It will be available in limited quantities at the brewery and some tap accounts. Details to follow shortly.
+• [Big Spruce Brewing](https://www.facebook.com/BigSpruceBrewing) has released a new beer this week, their Regatta Red. It will be available in limited quantities at the brewery and some tap accounts. Details to follow shortly.
 
 • Big Spruce will also be taking part in the[ Take-a-Bite Food Event](http://www.downtownsydney.ca/view-event.asp?id=29) in Sydney. It takes place Saturday from 11:30-2 at the Cruise Ship Pavillion.
 
-• [Moosehead Brewing](http://moosehead.ca/home/) is releasing a new beer to the area, Boundary Ale. It appears to be an all malt beer, with 2-row barley as the backbone, and six others for flavour and colour. The beer incorporates English (Fuggles and EKG) and American (Cascade and Chinook) hops for bittering and aroma. At 39 IBU and 5.3% ABV, this is a definite departure from their regular offerings.
+• [Moosehead Brewing](http://moosehead.ca/home/) is releasing a new beer to the area, Boundary Ale. It appears to be an all malt beer, with 2-row barley as the backbone, and six others for flavour and colour. The beer incorporates English (Fuggles and EKG) and American (Cascade and Chinook) hops for bittering and aroma. At 39 IBU and 5.3% ABV, this is a definite departure from their regular offerings.
 
-• [Late edit] Brewmaster [Greg Nash](https://twitter.com/__NASH__)'s newest beer at the [Rockbottom Brewpub](http://rockbottombrewpub.ca/) is [Rookie](http://rockbottombrewpub.blogspot.com/2013/06/rookie-now-on-tap.html). The basis for the beer is an English Mild (3.3% ABV), however it is hopped up with a ton (approximately) of aromatic American Citra and Simcoe hops. Sounds like a great combo for those Saturday afternoon sessions.
+• [Late edit] Brewmaster [Greg Nash](https://twitter.com/__NASH__)'s newest beer at the [Rockbottom Brewpub](http://rockbottombrewpub.ca/) is [Rookie](http://rockbottombrewpub.blogspot.com/2013/06/rookie-now-on-tap.html). The basis for the beer is an English Mild (3.3% ABV), however it is hopped up with a ton (approximately) of aromatic American Citra and Simcoe hops. Sounds like a great combo for those Saturday afternoon sessions.
 
 Stay dry and drink good beer this weekend!

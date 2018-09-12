@@ -19,7 +19,7 @@ wordpress_id: 1484
 
 
 
-As noted on [their website](http://www.quidividibrewery.ca/award-winning-beers/seasonal-continental-pilsener/), and [Canadian Beer News](http://www.canadianbeernews.com/2012/06/26/quidi-vidi-launches-continental-pilsener-as-latest-seasonal-release/), Quidi Vidi Brewing's Continental Pilsener is now available in NLC stores as a limited edition seasonal beer.  The beer is described on the label as
+As noted on [their website](http://www.quidividibrewery.ca/award-winning-beers/seasonal-continental-pilsener/), and [Canadian Beer News](http://www.canadianbeernews.com/2012/06/26/quidi-vidi-launches-continental-pilsener-as-latest-seasonal-release/), Quidi Vidi Brewing's Continental Pilsener is now available in NLC stores as a limited edition seasonal beer.  The beer is described on the label as
 
 
 

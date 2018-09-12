@@ -15,7 +15,7 @@ wordpress_id: 2342
 
 [![spruce-beer-500](http://acbeerblog.ca/wp-content/uploads/2012/02/spruce-beer-500.png)](http://atlanticcanadabeerblog.wordpress.com/2012/02/11/get-your-garrison-spruce-beer-while-you-still-can/spruce-beer-500/)
 
-_Updated Dec 14th at 7:23 PM.  I received a press release from the good folks at Garrison after originally posting.  Here is the information contained within the release:_
+_Updated Dec 14th at 7:23 PM.  I received a press release from the good folks at Garrison after originally posting.  Here is the information contained within the release:_
 
 **Garrison’s celebrated Spruce Beer goes on sale today**
 
@@ -31,7 +31,7 @@ Described by some as a “Christmas tree in a glass”, this seasonal specialty 
 
 Original post:
 
-In a sure sign that the Fat Guy in the Red Suit will be around any day now, Garrison Brewing's Spruce Beer will be available today at the brewery at 9am.  The beer will also be available at the Halifax private stores but unfortunately not through any of the local liquor commissions.  Below is [an extract of a Q & A I did with Garrison President Brian Titus ](http://atlanticcanadabeerblog.wordpress.com/2012/08/02/q-and-a-with-garrison-brewing-co-president-brian-titus/)earlier this year regarding the beer:
+In a sure sign that the Fat Guy in the Red Suit will be around any day now, Garrison Brewing's Spruce Beer will be available today at the brewery at 9am.  The beer will also be available at the Halifax private stores but unfortunately not through any of the local liquor commissions.  Below is [an extract of a Q & A I did with Garrison President Brian Titus ](http://atlanticcanadabeerblog.wordpress.com/2012/08/02/q-and-a-with-garrison-brewing-co-president-brian-titus/)earlier this year regarding the beer:
 
 ACBB: Your Spruce Beer generated a great deal of buzz when it was available last Winter, can you tell me about the beer?
 

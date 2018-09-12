@@ -16,7 +16,7 @@ url: /2012/04/23/friday-the-firkinteenth-at-the-grey-lodge-pub-philadelphia-penn
 wordpress_id: 1075
 ---
 
-_Editor's Note:  [I mentioned a while back](http://atlanticcanadabeerblog.wordpress.com/2012/03/18/introducting-raven-sierra-new-guest-bloggers-to-post-about-their-beer-travel-experiences-for-atlantic-canada-beer-blog/) that guests posts would be appearing from time-to-time regarding beer travel._  _Here is the first post from Raven and Sierra._
+_Editor's Note:  [I mentioned a while back](http://atlanticcanadabeerblog.wordpress.com/2012/03/18/introducting-raven-sierra-new-guest-bloggers-to-post-about-their-beer-travel-experiences-for-atlantic-canada-beer-blog/) that guests posts would be appearing from time-to-time regarding beer travel._  _Here is the first post from Raven and Sierra._
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/04/raven-7.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/04/raven-7.jpg)
 
@@ -38,9 +38,9 @@ _Scoats - the owner of The Grey Lodge_
 
 From beer writer Jack Curtin, ""This whole thing makes no sense whatsoever. It's totally random because the timing is entirely at the mercy of the calendar. It's held in this tiny neighborhood bar in Northeast Philadelphia, an area which is not exactly your mecca for great beer. Yet virtually every brewer within shouting distance would kill to be a part of it and people come from all over to stand shoulder-to-shoulder and hope they can get a beer from bartenders who are incredibly overworked. Scoats is either a genius or an idiot savant, I can't decide which. But God bless him."
 
-For those who are wondering, "what the hell is a firkin", here is a bit of information.  Firkins and pins are two sizes of casks. A firkin is 40.8 liters (10.8 US gallons). A pin is 20.4 liters (5.4 gallons). A typical U.S. 1/2 barrel is 15.5 gallons.
+For those who are wondering, "what the hell is a firkin", here is a bit of information.  Firkins and pins are two sizes of casks. A firkin is 40.8 liters (10.8 US gallons). A pin is 20.4 liters (5.4 gallons). A typical U.S. 1/2 barrel is 15.5 gallons.
 
-This past week Sierra and I met up with some beer friends who traveled up from North Carolina to celebrate the 25th Friday the Firkinteenth.  The weather was near perfect and with that we ventured to the pub in time to be nicely postioned for the 12 noon tap time of the first seven firkins. In case you are wondering 22 firkins were acquired for the event with seven firkins pouring at any time (except when they got down to less than 7), tapping a new one as one kicks. The order of the casks were totally random.
+This past week Sierra and I met up with some beer friends who traveled up from North Carolina to celebrate the 25th Friday the Firkinteenth.  The weather was near perfect and with that we ventured to the pub in time to be nicely postioned for the 12 noon tap time of the first seven firkins. In case you are wondering 22 firkins were acquired for the event with seven firkins pouring at any time (except when they got down to less than 7), tapping a new one as one kicks. The order of the casks were totally random.
 
 The line up was as follows--
 
@@ -79,4 +79,4 @@ All in all a fantastic time was had by all. Kudos to Scoats for pulling off anot
 
 If you are looking for a summer beercation idea the city of Philadelphia would be happy to welcome you for a visit. The next Friday the Firkinteenth will take place at The Grey Lodge Pub, 6235 Frankford Avenue, on July 13, 2012.
 
-_Editor's note:  To see additional pics of the event, check out the [Friday the Firkinteeth Photo Album](http://www.facebook.com/media/set/?set=a.227028300730693.37473.174315392668651&type=1) on the Atlantic Canada Beer Blog Facebook Page._
+_Editor's note:  To see additional pics of the event, check out the [Friday the Firkinteeth Photo Album](http://www.facebook.com/media/set/?set=a.227028300730693.37473.174315392668651&type=1) on the Atlantic Canada Beer Blog Facebook Page._

@@ -16,7 +16,7 @@ wordpress_id: 1402
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/06/innis-gunn.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/06/innis-gunn.jpg)
 
-_Editor's Note:  Here's a press release I received regarding a special event sponsored by Innis & Gunn taking place in Halifax today:_
+_Editor's Note:  Here's a press release I received regarding a special event sponsored by Innis & Gunn taking place in Halifax today:_
 
 Toronto: Innis & Gunn, brewers of Canada’s favourite Scottish beer, will welcome the Edinburgh Inspiring Capital on June 13th when it visits Halifax, Nova Scotia, on the Canadian leg of its Clipper 11-12 Round the World Yacht Race. In observance of this internationally recognized program, Innis & Gunn will celebrate the yacht’s arrival from New York by participating in a one-day corporate sail while toasting the crew’s final leg of the race with the brewery’s annual, limited edition Canada Day 2012 beer.
 

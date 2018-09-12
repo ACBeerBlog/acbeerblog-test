@@ -19,6 +19,6 @@ wordpress_id: 1597
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/07/beers-of-belgium.jpg?w=790)](http://acbeerblog.ca/wp-content/uploads/2012/07/beers-of-belgium.jpg)
 
-A Belgium themed beer tasting will take place at Pickles Deli in Sackville, NB this Saturday night at 8pm.  The event will be hosted by local beer blogger [Dave Evans (aka Beer Maven)](http://beermaven.blogspot.ca/) and will feature the following beers:  Stella Artois, Hoegaarden, Leffe Blonde, Orval and Unibroue's Belgian inspired La Fin Du Monde.
+A Belgium themed beer tasting will take place at Pickles Deli in Sackville, NB this Saturday night at 8pm.  The event will be hosted by local beer blogger [Dave Evans (aka Beer Maven)](http://beermaven.blogspot.ca/) and will feature the following beers:  Stella Artois, Hoegaarden, Leffe Blonde, Orval and Unibroue's Belgian inspired La Fin Du Monde.
 
 In addition to samples of the above beers, each ticket includes unlimited appetizer-sized sandwiches. Tickets for the event are $25 each and are available from Pickles or by phone at 506-939-DELI.

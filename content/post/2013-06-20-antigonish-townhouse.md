@@ -17,7 +17,7 @@ wordpress_id: 3037
 [![Antigonish Townhouse Logo](http://acbeerblog.ca/wp-content/uploads/2013/06/townhouse_logo.jpg)](http://acbeerblog.ca/wp-content/uploads/2013/06/townhouse_logo.jpg)
 
 
-As mentioned in a previous [post](http://atlanticcanadabeerblog.wordpress.com/2013/04/26/friday-wrap-up-20130426/), the [Antigonish Townhouse](https://www.facebook.com/AntigonishTownhouse) has begun brewing test batches in their brewery, located above the bar. I contacted owners Rose and Terry to find out more about the pub and their brewing setup, and they took turns answering.
+As mentioned in a previous [post](http://atlanticcanadabeerblog.wordpress.com/2013/04/26/friday-wrap-up-20130426/), the [Antigonish Townhouse](https://www.facebook.com/AntigonishTownhouse) has begun brewing test batches in their brewery, located above the bar. I contacted owners Rose and Terry to find out more about the pub and their brewing setup, and they took turns answering.
 
 **Could you give me an idea on how the idea for the Antigonish Townhouse started/became a reality?**
 
@@ -37,7 +37,7 @@ Terry: It's a 1/2 barrel Sabco BrewMagic system. Very small, homebrew scale. We'
 
 **Do you have a plan for which beers will be brewed there?**
 
-Terry: I would like to produce one kind as our flagship (I guess our sole-ship) beer. It'll be a traditional cask conditioned English bitter on an Angram handpump. We thought we'd go right for the cask conditioning because, not only does it suit the style best, but it'll also set us apart from most other brewpubs around, and give us the novelty of having something that can only be enjoyed at our pub (sorry no growlers available). Down the road we may get into more experimentation, and may slightly increase our brewing capacity. But we'll always be small and simple.
+Terry: I would like to produce one kind as our flagship (I guess our sole-ship) beer. It'll be a traditional cask conditioned English bitter on an Angram handpump. We thought we'd go right for the cask conditioning because, not only does it suit the style best, but it'll also set us apart from most other brewpubs around, and give us the novelty of having something that can only be enjoyed at our pub (sorry no growlers available). Down the road we may get into more experimentation, and may slightly increase our brewing capacity. But we'll always be small and simple.
 
 **What is your approach to beer style/recipe choice?**
 
@@ -67,4 +67,4 @@ Rose: I'd say we'll be having a pretty big party!
 
 _Since answering my questions a few weeks ago, Terry has gone on to brew several more iterations of the house beer, tweaking the recipe and process. As the beer is [cask-conditioned](http://en.wikipedia.org/wiki/Cask_ale), it is still alive and changing, and perfecting is as much art as science. We're sure it will be worth the wait, and keep you updated on exact release date._
 
-_The Townhouse is at [76 College St., Antigonish, NS](http://goo.gl/maps/DXnRy), (902) 863-2248, and can be found online at their [website](http://antigonishtownhouse.blogspot.ca/), [Facebook](https://www.facebook.com/AntigonishTownhouse) and [Twitter](https://twitter.com/Townhouse_Pub)._
+_The Townhouse is at [76 College St., Antigonish, NS](http://goo.gl/maps/DXnRy), (902) 863-2248, and can be found online at their [website](http://antigonishtownhouse.blogspot.ca/), [Facebook](https://www.facebook.com/AntigonishTownhouse) and [Twitter](https://twitter.com/Townhouse_Pub)._

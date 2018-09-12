@@ -15,7 +15,7 @@ wordpress_id: 11216
 
 [![foghorn-logo](http://acbeerblog.ca/wp-content/uploads/2016/10/foghorn-logo.png)](http://acbeerblog.ca/wp-content/uploads/2016/10/foghorn-logo.png)
 
-In August, rumours that had been abound for months were officially confirmed, as [Foghorn Brewing Company](http://www.drinkfoghorn.ca) announced they would be opening this fall at [47 Clark Rd](https://goo.gl/maps/ick5Gt2Psy42) in the town of Rothesay, located in Kennebecasis Valley. Co-owned by Business Manager Steve Russell and brewmaster Andrew 'Esty' Estabrooks, the brewery and taproom should be open by late October. We recently chatted with Steve and Esty to learn more about their plans for New Brunswick's newest brewery...
+In August, rumours that had been abound for months were officially confirmed, as [Foghorn Brewing Company](http://www.drinkfoghorn.ca) announced they would be opening this fall at [47 Clark Rd](https://goo.gl/maps/ick5Gt2Psy42) in the town of Rothesay, located in Kennebecasis Valley. Co-owned by Business Manager Steve Russell and brewmaster Andrew 'Esty' Estabrooks, the brewery and taproom should be open by late October. We recently chatted with Steve and Esty to learn more about their plans for New Brunswick's newest brewery...
 
 **Can you tell us a little bit about yourselves?**
 Steve: I believe food is one of the great pleasures in life. And I believe that beer is food. I love everything about it: I love drinking it, talking about it, thinking about it. I also love the community of KV, where I grew up and where Foghorn Brewing Company is located.
@@ -23,7 +23,7 @@ Esty: I have been brewing for almost 13 years. I worked at [Picaroons](https://w
 
 **How did you get into the world of craft beer?**
 Steve: I hitch-hiked across Europe and the UK when I was 18. There I first discovered real cask ale and it changed everything. A few years later, I ended up on the West Coast for a number of years and was introduced to the North West craft beer renaissance. That was when the dream was born.
-Esty: I was fortunate enough to be part of the early trailblazing that Picaroons did. I used to help bottle and glue four-pack boxes for payments in short-fills in University. Then when I returned from teaching English in South Korea, friends told me to go see Sean Dunbar [owner of Picaroons] for a job. I started washing kegs and gluing boxes, and the love for beer and brewing grew from there.
+Esty: I was fortunate enough to be part of the early trailblazing that Picaroons did. I used to help bottle and glue four-pack boxes for payments in short-fills in University. Then when I returned from teaching English in South Korea, friends told me to go see Sean Dunbar [owner of Picaroons] for a job. I started washing kegs and gluing boxes, and the love for beer and brewing grew from there.
 
 **What appealed to you about setting up shop in KV?**
 Steve: I was born and raised here. My family and friends are here. There was no question about opening a brewery anywhere else. It's a great community, beautiful, happy, and growing. Most importantly, We feel it deserves its own craft brewery.

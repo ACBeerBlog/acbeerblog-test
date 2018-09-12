@@ -18,13 +18,13 @@ wordpress_id: 4069
 
 [![localconnections_event](http://acbeerblog.ca/wp-content/uploads/2013/11/localconnections_event.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/11/localconnections_event.jpg)
 
-In advance of the [Craft Beer and Local Food Celebration](http://www.eventbrite.ca/e/craft-beer-and-local-food-celebration-tickets-8208021413) being held January 16 at the [Halifax Club](http://www.halifaxclub.ca/), we reached out to Alex Henden of Local Connections Halifax for more information.
+In advance of the [Craft Beer and Local Food Celebration](http://www.eventbrite.ca/e/craft-beer-and-local-food-celebration-tickets-8208021413) being held January 16 at the [Halifax Club](http://www.halifaxclub.ca/), we reached out to Alex Henden of Local Connections Halifax for more information.
 
 Alex is the brains and visionary behind [Local Connections Halifax](http://localconnections.ca/magazine), a quarterly print and online magazine that highlights the best of Halifax, in all categories (shops, food, beer, crafts, everything!). In addition to the magazine, Alexander also hosts and helps promote events all over the HRM (remember [Sausage Fest](https://www.facebook.com/media/set/?set=a.508866302516447.1073741832.155163541220060&type=3)?). The[ Autumn edition](http://issuu.com/connectionshfx/docs/localconnections_autumn2013?e=0) of the magazine has a wonderful feature on [The Golden Age](http://issuu.com/connectionshfx/docs/localconnections_autumn2013/37?e=0) of Craft Beer in Nova Scotia.
 
 **ACBB: Please tell us a little about yourself and Local Connections Halifax.**
 
-Alex: My background at Local Connections Halifax is that I started the magazine about 1.5 years ago with no experience, and have begun doing events right from the get go. At this point in our brief history, we have accumulated a lot of data/experience doing events successfully, and are now looking to apply our findings to what we do to make our events even better. There hasn't been any outward pressure to improve, but we simply roll this way.
+Alex: My background at Local Connections Halifax is that I started the magazine about 1.5 years ago with no experience, and have begun doing events right from the get go. At this point in our brief history, we have accumulated a lot of data/experience doing events successfully, and are now looking to apply our findings to what we do to make our events even better. There hasn't been any outward pressure to improve, but we simply roll this way.
 
 
 Reception from local businesses and the general public has been similar. We have developed a solid group of readers and supporters. We are close to sustainability with the magazine and have forged a fairly solid reputation as an event host. With this is mind, we are keen to deliver big on January 16 and move up a notch or two in terms of public expectation and demand. We want to be one of the top dogs.

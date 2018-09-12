@@ -15,6 +15,6 @@ url: /2012/09/28/looking-to-get-into-homebrewing-check-out-the-latest-post-from-
 wordpress_id: 1953
 ---
 
-If you're looking to get into homebrewing, check out this great post about [beginner tips for homebrewing](http://meekbrewingco.blogspot.ca/2012/09/beginner-tips-start-up-homebrew.html).  If you haven't had a chance to check out the Meek Brewing website and are the least bit curious about starting homebrewing or getting some new recipes you should head over.
+If you're looking to get into homebrewing, check out this great post about [beginner tips for homebrewing](http://meekbrewingco.blogspot.ca/2012/09/beginner-tips-start-up-homebrew.html).  If you haven't had a chance to check out the Meek Brewing website and are the least bit curious about starting homebrewing or getting some new recipes you should head over.
 
 Here's a link to [a Q & A I did about the blog](http://atlanticcanadabeerblog.wordpress.com/2012/03/21/q-and-a-with-the-man-behind-meek-brewing-co/) back in March.

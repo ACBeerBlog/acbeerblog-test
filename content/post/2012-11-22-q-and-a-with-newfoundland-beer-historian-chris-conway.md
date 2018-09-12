@@ -14,7 +14,7 @@ url: /2012/11/22/q-and-a-with-newfoundland-beer-historian-chris-conway/
 wordpress_id: 2214
 ---
 
-While I've called this blog the Atlantic Canada Beer Blog, I'll be the first to admit that I haven't had enough Newfoundland content which is why I'm very excited about this post.  Chris Conway is a beer enthusiast and home-brewer from Newfoundland currently pursuing a PhD in the history of technology at the University of Toronto.  In his spare time he blogs about the[ history of Newfoundland Beer](http://nlbeerhistory.com/).  I recently exchanged emails with Chris in order to complete the following Q & A:
+While I've called this blog the Atlantic Canada Beer Blog, I'll be the first to admit that I haven't had enough Newfoundland content which is why I'm very excited about this post.  Chris Conway is a beer enthusiast and home-brewer from Newfoundland currently pursuing a PhD in the history of technology at the University of Toronto.  In his spare time he blogs about the[ history of Newfoundland Beer](http://nlbeerhistory.com/).  I recently exchanged emails with Chris in order to complete the following Q & A:
 
 
 Atlantic Canada Beer Blogger (ACBB): How did you develop your interest in the history of Newfoundland Beer?
@@ -25,7 +25,7 @@ Atlantic Canada Beer Blogger (ACBB): How did you develop your interest in the hi
 
 
 
-**Chris Conway (CC):  Primarily it developed from my love of both beer and history. As long as I have been drinking I have had a desire to try every different beer that I could, which, in Newfoundland, wasn't a whole lot. I've always been fascinated by the different beers with Newfoundland imagery that were available at corner stores and gas stations and how they all had very loyal cult followings. I didn't really notice that these were local beers until I got away from the province, especially when I noticed (at a brew pub in Montreal - Le Réservoir) an india pale ale. It was the first I'd heard of the style, which was unheard of in Newfoundland (even though this was years ago, there are still no regular IPAs in Newfoundland)! After that I was curious why there was a beer in Newfoundland called "India Beer," considering it had none of the same flavours. The idea sort of stuck at the back of my mind as I learned about more beer and travelled around other places. One day when I decided to search around on the internet for a definitive reason for the name of Newfoundland's "India Beer." To my surprise, there was very little in the way of an answer on the internet about Newfoundland beer except for a little postulation from surprised tourists (is this an IPA?!) and an article in the Newfoundland Liquor Corporations' Occasions Magazine. Even more surprisingly, I found many comments from fans of particular brands that had no idea many of these Newfoundland brands were brewed by either Molson or Labatt. At that point my inner historian had enough and I started digging through archives and old magazines (along with bottle collections) to find some answers and to make the answers that I did find as clear and available as possible.**
+**Chris Conway (CC):  Primarily it developed from my love of both beer and history. As long as I have been drinking I have had a desire to try every different beer that I could, which, in Newfoundland, wasn't a whole lot. I've always been fascinated by the different beers with Newfoundland imagery that were available at corner stores and gas stations and how they all had very loyal cult followings. I didn't really notice that these were local beers until I got away from the province, especially when I noticed (at a brew pub in Montreal - Le Réservoir) an india pale ale. It was the first I'd heard of the style, which was unheard of in Newfoundland (even though this was years ago, there are still no regular IPAs in Newfoundland)! After that I was curious why there was a beer in Newfoundland called "India Beer," considering it had none of the same flavours. The idea sort of stuck at the back of my mind as I learned about more beer and travelled around other places. One day when I decided to search around on the internet for a definitive reason for the name of Newfoundland's "India Beer." To my surprise, there was very little in the way of an answer on the internet about Newfoundland beer except for a little postulation from surprised tourists (is this an IPA?!) and an article in the Newfoundland Liquor Corporations' Occasions Magazine. Even more surprisingly, I found many comments from fans of particular brands that had no idea many of these Newfoundland brands were brewed by either Molson or Labatt. At that point my inner historian had enough and I started digging through archives and old magazines (along with bottle collections) to find some answers and to make the answers that I did find as clear and available as possible.**
 
 
 
@@ -33,7 +33,7 @@ Atlantic Canada Beer Blogger (ACBB): How did you develop your interest in the hi
 
 
 
-ACBB:  Tell me about your website.
+ACBB:  Tell me about your website.
 
 
 
@@ -41,7 +41,7 @@ ACBB:  Tell me about your website.
 
 
 
-**CC:  The site was originally designed around a timeline that I put together from the Encyclopaedia of Newfoundland and my [collection of Newfoundland beer labels](http://nlbeerhistory.com/timeline/). The main goal was to illustrate that many Newfoundland beers were owned by either Molson or Labatt and that, back before 1962, they had been products of three different independent Newfoundland breweries. As I kept researching I started a "research blog" where I added more old retired Newfoundland beer brands and pictures of their labels. Soon the research blog became the main site and [I was researching everything from old brands to finding obscure advertisements ](http://nlbeerhistory.com/). After I noticed a lot of traffic coming from international sources (largely people wondering what to drink when in Newfoundland), I decided to put a little "Newfoundland Beer Brands" post together which outlines which beers are owned by which big brewery now and to give them a little introduction to the craft beer scene in Newfoundland ([including links to the three craft breweries Newfoundland currently has)](http://nlbeerhistory.com/newfoundland-beer/). I've continued to work on adding new content to the site discussing more interesting "breweriana" that I find and telling other historical stories.**
+**CC:  The site was originally designed around a timeline that I put together from the Encyclopaedia of Newfoundland and my [collection of Newfoundland beer labels](http://nlbeerhistory.com/timeline/). The main goal was to illustrate that many Newfoundland beers were owned by either Molson or Labatt and that, back before 1962, they had been products of three different independent Newfoundland breweries. As I kept researching I started a "research blog" where I added more old retired Newfoundland beer brands and pictures of their labels. Soon the research blog became the main site and [I was researching everything from old brands to finding obscure advertisements ](http://nlbeerhistory.com/). After I noticed a lot of traffic coming from international sources (largely people wondering what to drink when in Newfoundland), I decided to put a little "Newfoundland Beer Brands" post together which outlines which beers are owned by which big brewery now and to give them a little introduction to the craft beer scene in Newfoundland ([including links to the three craft breweries Newfoundland currently has)](http://nlbeerhistory.com/newfoundland-beer/). I've continued to work on adding new content to the site discussing more interesting "breweriana" that I find and telling other historical stories.**
 
 
 
@@ -49,7 +49,7 @@ ACBB:  Tell me about your website.
 
 
 
-ACBB:  Tell me about Newfoundland's operating craft Breweries:  Quidi Vidi, Storm Brewing and Yellowbelly Brewing.
+ACBB:  Tell me about Newfoundland's operating craft Breweries:  Quidi Vidi, Storm Brewing and Yellowbelly Brewing.
 
 
 
@@ -57,7 +57,7 @@ ACBB:  Tell me about Newfoundland's operating craft Breweries:  Quidi Vidi, St
 
 
 
-**CC:  I absolutely love craft beer and the craft brewing industry, so for the last few years I lived there I was a big champion of all three Newfoundland craft breweries. Every time I return home I try to drink Newfoundland craft pretty much exclusively, so I'm still a big booster for all three breweries. Quidi Vidi was always very close to home - literally it was only a few minutes from my parents' house - so I always used to drink a lot of their beers. I loved them partially because they are tasty, partially because they are the only ones who sell widely available 6- and 12-packs of craft beer, and partially because if you buy them directly from the brewery you get a free dozen every fifth dozen you buy! They produce mostly beers that a fermented at lower temperatures (Lager, Light, Eric's Cream Ale, and the legendary Iceberg which is made with real iceberg water), but they do have a few Ales including their Honey Brown and, my favourite, 1892.**
+**CC:  I absolutely love craft beer and the craft brewing industry, so for the last few years I lived there I was a big champion of all three Newfoundland craft breweries. Every time I return home I try to drink Newfoundland craft pretty much exclusively, so I'm still a big booster for all three breweries. Quidi Vidi was always very close to home - literally it was only a few minutes from my parents' house - so I always used to drink a lot of their beers. I loved them partially because they are tasty, partially because they are the only ones who sell widely available 6- and 12-packs of craft beer, and partially because if you buy them directly from the brewery you get a free dozen every fifth dozen you buy! They produce mostly beers that a fermented at lower temperatures (Lager, Light, Eric's Cream Ale, and the legendary Iceberg which is made with real iceberg water), but they do have a few Ales including their Honey Brown and, my favourite, 1892.**
 
 
 
@@ -89,7 +89,7 @@ ACBB:  Tell me about Newfoundland's operating craft Breweries:  Quidi Vidi, St
 
 
 
-ACBB:  What would you describe as the most noteworthy events that took place in Newfoundland's brewing history?
+ACBB:  What would you describe as the most noteworthy events that took place in Newfoundland's brewing history?
 
 
 
@@ -97,7 +97,7 @@ ACBB:  What would you describe as the most noteworthy events that took place in
 
 
 
-**CC:  I guess I'll go over a little of the timeline in four big events: prohibition, the 1962 sales, the beer strike, and the craft movement. Like most places, Newfoundland struggled with prohibition in the early 20th century, which closed out a good number of brewers like the Lindberg Brewing Company. The ones who survived did so by making "aerated waters," basically turning the brewery into a soda making plant. After the prohibition experiment was over, three breweries, the Bennett Brewing Company, the Newfoundland Brewery, and the Bavarian Brewing Company, emerged as the big players and made some iconic beers (more on those later). The next big event was in 1962. In 1962 the big three Canadian Brewers, Carling-O'Keefe, Molson, and Labatt bought one of the breweries apiece and used them as their operations in Newfoundland. They kept on some of the old brands and brought in a few new ones. (See [http://nlbeerhistory.com/timeline/](http://nlbeerhistory.com/timeline/) - linked already above - for more detail.) The the credit of Molson and Labatt, they still operated regional breweries in St. John's to this day which keep brewing jobs in Newfoundland. So while the independent breweries did disappear the breweries themselves and the role they played in the community never did.**
+**CC:  I guess I'll go over a little of the timeline in four big events: prohibition, the 1962 sales, the beer strike, and the craft movement. Like most places, Newfoundland struggled with prohibition in the early 20th century, which closed out a good number of brewers like the Lindberg Brewing Company. The ones who survived did so by making "aerated waters," basically turning the brewery into a soda making plant. After the prohibition experiment was over, three breweries, the Bennett Brewing Company, the Newfoundland Brewery, and the Bavarian Brewing Company, emerged as the big players and made some iconic beers (more on those later). The next big event was in 1962. In 1962 the big three Canadian Brewers, Carling-O'Keefe, Molson, and Labatt bought one of the breweries apiece and used them as their operations in Newfoundland. They kept on some of the old brands and brought in a few new ones. (See [http://nlbeerhistory.com/timeline/](http://nlbeerhistory.com/timeline/) - linked already above - for more detail.) The the credit of Molson and Labatt, they still operated regional breweries in St. John's to this day which keep brewing jobs in Newfoundland. So while the independent breweries did disappear the breweries themselves and the role they played in the community never did.**
 
 
 
@@ -121,7 +121,7 @@ ACBB:  What would you describe as the most noteworthy events that took place in
 
 
 
-ACBB:  Tell me about some of the brews created by macros that are exclusive to NFLD.
+ACBB:  Tell me about some of the brews created by macros that are exclusive to NFLD.
 
 
 
@@ -129,7 +129,7 @@ ACBB:  Tell me about some of the brews created by macros that are exclusive to 
 
 
 
-**CC:  I've got a [post about this](http://nlbeerhistory.com/newfoundland-beer/), but I'll summarize it here.**
+**CC:  I've got a [post about this](http://nlbeerhistory.com/newfoundland-beer/), but I'll summarize it here.**
 
 
 
@@ -161,7 +161,7 @@ ACBB:  Tell me about some of the brews created by macros that are exclusive to 
 
 
 
-ACBB:  What would you describe as the major differences between NFLD beer culture and the mainland (bottle shapes, tastes, etc.)?  How has Newfoundland beer culture changed over the years?
+ACBB:  What would you describe as the major differences between NFLD beer culture and the mainland (bottle shapes, tastes, etc.)?  How has Newfoundland beer culture changed over the years?
 
 
 
@@ -177,7 +177,7 @@ ACBB:  What would you describe as the major differences between NFLD beer cultu
 
 
 
-**CC:  The first thing most people notice when they come from the mainland is our shorter-neck bottle. I've gotten so much traffic on my blog from people looking for the answer to that question I've [written up a short history](http://nlbeerhistory.com/2012/10/14/the-newfoundland-short-neck-bob-21/). Taste-wise most people from the mainland who know beer (beer geeks, nerds, snobs - whatever) seem to be pretty disappointed when they see the range of beer options available in Newfoundland. Even the craft breweries tend to be a little timid when approaching Newfoundland's historically very limited tastes in beer. There aren't many flavourful beers here at all, even compared to the rest of Canada, and none of it is exported outside the province. Newfoundland's beer culture has always been a little more "functional" than most other parts of the country, so taste is having a little renaissance here now. I was very happy to see Quidi Vidi make an British IPA this summer, the first IPA to be made commercially in the province for many years (there aren't even any imported IPAs from other places in Canada or the US), and that Yellowbelly has really started to try making styles in their seasonal collection that are usually not seen in bars around (a Hefeweizen and a "Ginger" Ale, an Irish Red with Wild Yeast - no ginger). In Newfoundland's past, English-style stouts and porters used to thrive, so it would be nice to see more historical English influence back in the province and, with the craft beer boom in the United States slowly propagating thorough the bigger provinces now, I'm hopeful that some more American-style IPAs and ingenuity will be soon either imported or, preferably, brewed in Newfoundland. It's time to get some hops on the rock.**
+**CC:  The first thing most people notice when they come from the mainland is our shorter-neck bottle. I've gotten so much traffic on my blog from people looking for the answer to that question I've [written up a short history](http://nlbeerhistory.com/2012/10/14/the-newfoundland-short-neck-bob-21/). Taste-wise most people from the mainland who know beer (beer geeks, nerds, snobs - whatever) seem to be pretty disappointed when they see the range of beer options available in Newfoundland. Even the craft breweries tend to be a little timid when approaching Newfoundland's historically very limited tastes in beer. There aren't many flavourful beers here at all, even compared to the rest of Canada, and none of it is exported outside the province. Newfoundland's beer culture has always been a little more "functional" than most other parts of the country, so taste is having a little renaissance here now. I was very happy to see Quidi Vidi make an British IPA this summer, the first IPA to be made commercially in the province for many years (there aren't even any imported IPAs from other places in Canada or the US), and that Yellowbelly has really started to try making styles in their seasonal collection that are usually not seen in bars around (a Hefeweizen and a "Ginger" Ale, an Irish Red with Wild Yeast - no ginger). In Newfoundland's past, English-style stouts and porters used to thrive, so it would be nice to see more historical English influence back in the province and, with the craft beer boom in the United States slowly propagating thorough the bigger provinces now, I'm hopeful that some more American-style IPAs and ingenuity will be soon either imported or, preferably, brewed in Newfoundland. It's time to get some hops on the rock.**
 
 
 
@@ -185,7 +185,7 @@ ACBB:  What would you describe as the major differences between NFLD beer cultu
 
 
 
-ACBB:  What NFLD beers do you miss most while in Toronto?
+ACBB:  What NFLD beers do you miss most while in Toronto?
 
 
 
@@ -193,7 +193,7 @@ ACBB:  What NFLD beers do you miss most while in Toronto?
 
 
 
-**CC:  Newfoundland beers are a little bitter-sweet for me now that I'm in Toronto. I think it's important to support the three Newfoundland craft breweries, but, with access to more Canadian, European, and American breweries in Ontario, the beers that are in Newfoundland feel a little tame by craft standards. I do miss Quidi Vidi's 1892 and I always try to keep a small stash of it in my fridge up here. 1892 was the year of the St. John's fire where most of the town burned down and Quidi Vid has kept with that historical note in brewing it with the ingredients that might have been available at that time (English Malts and German Hops - Saaz if I remember correctly). It's a really unique beer and really a taste of home for me. The Duke's Own is another one that I really miss, but part of that is likely that I miss drinking pints of it with friends and family at the Duke of Duckworth. [The Duke, now famous for its staring role on the Republic of Doyle, used to brew it themselves but now have Storm brew it for them](http://nlbeerhistory.com/2012/06/28/the-duke-of-duckworth-and-blue-star/). It's really one of the best English Ales to have never been served on cask!**
+**CC:  Newfoundland beers are a little bitter-sweet for me now that I'm in Toronto. I think it's important to support the three Newfoundland craft breweries, but, with access to more Canadian, European, and American breweries in Ontario, the beers that are in Newfoundland feel a little tame by craft standards. I do miss Quidi Vidi's 1892 and I always try to keep a small stash of it in my fridge up here. 1892 was the year of the St. John's fire where most of the town burned down and Quidi Vid has kept with that historical note in brewing it with the ingredients that might have been available at that time (English Malts and German Hops - Saaz if I remember correctly). It's a really unique beer and really a taste of home for me. The Duke's Own is another one that I really miss, but part of that is likely that I miss drinking pints of it with friends and family at the Duke of Duckworth. [The Duke, now famous for its staring role on the Republic of Doyle, used to brew it themselves but now have Storm brew it for them](http://nlbeerhistory.com/2012/06/28/the-duke-of-duckworth-and-blue-star/). It's really one of the best English Ales to have never been served on cask!**
 
 
 
@@ -201,7 +201,7 @@ ACBB:  What NFLD beers do you miss most while in Toronto?
 
 
 
-ACBB:  You're a home brewer; tell me about the home brewing scene in NFLD.
+ACBB:  You're a home brewer; tell me about the home brewing scene in NFLD.
 
 
 
@@ -209,7 +209,7 @@ ACBB:  You're a home brewer; tell me about the home brewing scene in NFLD.
 
 
 
-**CC:  Most people that I know who homebrew in Newfoundland do so in large part because they cannot get many different styles of beer locally. A selection of stouts and Belgian-inspired (doubles, triples) beers are pretty much impossible to get in Newfoundland (though some of this might be changing with [the "Beer Thief" ordering club](http://www.facebook.com/beerthief.ca) ). For IPAs or even a hoppy pale ale, well, there you're out of luck. So, for many folks, home brewing is the only option (aside from the occasional smuggled Boneshaker IPA or Twice as Mad Tom DIPA from Ontario). Fortunately, St. John's has two locations of a great local brew store, Brewery Lane (they also run [a web store](clickabrew.com) ). Both locations are excellent sources of hops, malts, equipment for brewing, and, most importantly, good advice. I'm not aware of any brewing clubs in Newfoundland outside of my circle of friends, though they likely exist given how quickly certain varieties of hops sell out at Brewery Lane. For my part I'm looking forward to my trip home at Christmas to try some of my friends' newest brews and to try out a collaboration brew I made awhile back with a friend for Christmas: a chocolate clementine imperial stout.**
+**CC:  Most people that I know who homebrew in Newfoundland do so in large part because they cannot get many different styles of beer locally. A selection of stouts and Belgian-inspired (doubles, triples) beers are pretty much impossible to get in Newfoundland (though some of this might be changing with [the "Beer Thief" ordering club](http://www.facebook.com/beerthief.ca) ). For IPAs or even a hoppy pale ale, well, there you're out of luck. So, for many folks, home brewing is the only option (aside from the occasional smuggled Boneshaker IPA or Twice as Mad Tom DIPA from Ontario). Fortunately, St. John's has two locations of a great local brew store, Brewery Lane (they also run [a web store](clickabrew.com) ). Both locations are excellent sources of hops, malts, equipment for brewing, and, most importantly, good advice. I'm not aware of any brewing clubs in Newfoundland outside of my circle of friends, though they likely exist given how quickly certain varieties of hops sell out at Brewery Lane. For my part I'm looking forward to my trip home at Christmas to try some of my friends' newest brews and to try out a collaboration brew I made awhile back with a friend for Christmas: a chocolate clementine imperial stout.**
 
 
 
@@ -217,7 +217,7 @@ ACBB:  You're a home brewer; tell me about the home brewing scene in NFLD.
 
 
 
-ACBB:  Do you have any plans to work in the brewing industry after graduating and if so in what capacity?  Do you plan on returning to NFLD to work?
+ACBB:  Do you have any plans to work in the brewing industry after graduating and if so in what capacity?  Do you plan on returning to NFLD to work?
 
 
 
@@ -225,7 +225,7 @@ ACBB:  Do you have any plans to work in the brewing industry after graduating a
 
 
 
-**CC:  This is what everyone's been asking me since I've started this blog! Lots of people, when they notice that all I ever talk about is the current Ontario beer scene, the history of Newfoundland brewing, and home-brewing, start to wonder why I'm not in the industry. Honestly, right now it's really hard to say what my plans are. I really do love my "day job" research and I'm really passionate about continuing it. But, where history is one of those fields where job competition is tight and job openings are few and far between, I like to keep my options open in many different directions. I have a running fantasy of opening a small (American influenced) brewpub in St. John's to make some big, exciting beers there, but that's -really- just a fantasy at this point. For now, brewing history is a big passion of mine that fits well with both my academic and brewing interests. Plus, I've still got big backlog of material, "new" old labels, and topics that I've been working on getting blog posts written about. The history of brewing is pretty underdeveloped as I see it and the beauty of academic freedom is that I can continue my professional research and researching brewing history at the same time. For now I'm really happy with remaining a part of the consuming and enjoying side of the beer industry.**
+**CC:  This is what everyone's been asking me since I've started this blog! Lots of people, when they notice that all I ever talk about is the current Ontario beer scene, the history of Newfoundland brewing, and home-brewing, start to wonder why I'm not in the industry. Honestly, right now it's really hard to say what my plans are. I really do love my "day job" research and I'm really passionate about continuing it. But, where history is one of those fields where job competition is tight and job openings are few and far between, I like to keep my options open in many different directions. I have a running fantasy of opening a small (American influenced) brewpub in St. John's to make some big, exciting beers there, but that's -really- just a fantasy at this point. For now, brewing history is a big passion of mine that fits well with both my academic and brewing interests. Plus, I've still got big backlog of material, "new" old labels, and topics that I've been working on getting blog posts written about. The history of brewing is pretty underdeveloped as I see it and the beauty of academic freedom is that I can continue my professional research and researching brewing history at the same time. For now I'm really happy with remaining a part of the consuming and enjoying side of the beer industry.**
 
 
 
@@ -246,4 +246,4 @@ ________________________________________________________________________________
 
 
 
-Newfoundland Beer History also has a [Facebook page](http://www.facebook.com/nlbeerhistory?fref=ts) and Chris has to Twitter accounts:  a personal account ( @groulxsome  ) and one that provides updates related to the blog ( @NLBeerHistory ).
+Newfoundland Beer History also has a [Facebook page](http://www.facebook.com/nlbeerhistory?fref=ts) and Chris has to Twitter accounts:  a personal account ( @groulxsome  ) and one that provides updates related to the blog ( @NLBeerHistory ).

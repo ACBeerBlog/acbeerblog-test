@@ -28,7 +28,7 @@ wordpress_id: 2924
 
 
 
-The [Atlantic Beer Festival](http://www.atlanticbeerfestival.ca/Atlantic_Beer_Festival_New/Home.html) is taking place at the Moncton Coliseum this Saturday. There are two sessions: 2:30-5pm, and 7:30-10pm. Tickets are available at the Coliseum Box Office, The Pump House Brewery or BarnYard BBQ, and online at [tickets.moncton.ca](https://tickets.moncton.ca/Online/default.asp?brand=All&sessionlanguage=EN). The evening session is sold out, however there are lots of tickets still available for the afternoon session. The Beer Fest is partnering with the SPCA and United Way.
+The [Atlantic Beer Festival](http://www.atlanticbeerfestival.ca/Atlantic_Beer_Festival_New/Home.html) is taking place at the Moncton Coliseum this Saturday. There are two sessions: 2:30-5pm, and 7:30-10pm. Tickets are available at the Coliseum Box Office, The Pump House Brewery or BarnYard BBQ, and online at [tickets.moncton.ca](https://tickets.moncton.ca/Online/default.asp?brand=All&sessionlanguage=EN). The evening session is sold out, however there are lots of tickets still available for the afternoon session. The Beer Fest is partnering with the SPCA and United Way.
 
 
 
@@ -36,7 +36,7 @@ The [Atlantic Beer Festival](http://www.atlanticbeerfestival.ca/Atlantic_Beer_Fe
 Exact details on the beers and breweries are not published online (check the Times & Transcript on Thursday for a full list), but I give you some highlights from the organizers and brewers I've contacted.
 
 
-- Fresh off a CBA medal earlier this month, [Acadie-Broue](https://www.facebook.com/pages/Acadie-Broue/176759632361301) will be there with their Gaboteuse Belgian IPA. However, it will only be at the Afternoon Session, that's worth buying a ticket for the session alone!
+- Fresh off a CBA medal earlier this month, [Acadie-Broue](https://www.facebook.com/pages/Acadie-Broue/176759632361301) will be there with their Gaboteuse Belgian IPA. However, it will only be at the Afternoon Session, that's worth buying a ticket for the session alone!
 
 - [Shiretown](https://www.facebook.com/shiretown) from Charlo, NB will be there, pouring their Blonde du Quai, Big Brown Ale and a one off RodDog's Amber Ale. Also only there for the afternoon session, I see a trend!
 
@@ -50,6 +50,6 @@ We will post the final beer list as soon as it's available. We expect to see ove
 
 In addition to the beer, there will be food vendors (pretzels!), with a BBQ/Smoking station set up with pulled pork and sausages. There will be music by Carey Beck and the 60 LPs. Free shuttle buses leave from the Coliseum to various spots around the city (Downtown, Riverview, etc), so be sure to take advantage and don't drink and drive!
 
-There is a VIP option at each of the sessions: you will start at the Pump House Brewpub, and meet your guide for the session, [Mirella Amato](http://beerology.ca/). She is the only [Master Cicerone](https://cicerone.org/)[TM] in Canada, and will be helping folks get the most out of the Beer Festival. After some appetizers and a limo ride to the Coliseum, Mirella will bring you in the VIP entrance and then spend some time tasting some of the great beer available. She will highlight a few of the best beers, do a guided tasting at several of the difference booths, and assist you in hunting down the best beers for your favourites styles. To sign up, [contact the ANBL](mailto:info@anbl.com?subject=VIP Ticket for Atlantic Beer Festival). The ticket price is $99, and that includes your Festival ticket.
+There is a VIP option at each of the sessions: you will start at the Pump House Brewpub, and meet your guide for the session, [Mirella Amato](http://beerology.ca/). She is the only [Master Cicerone](https://cicerone.org/)[TM] in Canada, and will be helping folks get the most out of the Beer Festival. After some appetizers and a limo ride to the Coliseum, Mirella will bring you in the VIP entrance and then spend some time tasting some of the great beer available. She will highlight a few of the best beers, do a guided tasting at several of the difference booths, and assist you in hunting down the best beers for your favourites styles. To sign up, [contact the ANBL](mailto:info@anbl.com?subject=VIP Ticket for Atlantic Beer Festival). The ticket price is $99, and that includes your Festival ticket.
 
 We'll be there, and hope you will too! Cheers!

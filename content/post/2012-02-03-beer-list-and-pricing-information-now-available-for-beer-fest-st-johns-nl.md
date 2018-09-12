@@ -16,7 +16,7 @@ url: /2012/02/03/beer-list-and-pricing-information-now-available-for-beer-fest-s
 wordpress_id: 428
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/02/beer_fest_logo_300.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/beer_fest_logo_300.jpg)As posted [previously](http://atlanticcanadabeerblog.wordpress.com/2012/01/01/beer-fest-st-johns-nl/), this year's [Beer Fest](http://www.nlliquor.com/events/beerfestdetails.asp) will take place March 22nd & 23rd from 7-10 pm at the St. John's Convention Centre.  Tickets are $49.99 + HST which includes:
+[![](http://acbeerblog.ca/wp-content/uploads/2012/02/beer_fest_logo_300.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/beer_fest_logo_300.jpg)As posted [previously](http://atlanticcanadabeerblog.wordpress.com/2012/01/01/beer-fest-st-johns-nl/), this year's [Beer Fest](http://www.nlliquor.com/events/beerfestdetails.asp) will take place March 22nd & 23rd from 7-10 pm at the St. John's Convention Centre.  Tickets are $49.99 + HST which includes:
 
 
 
@@ -40,4 +40,4 @@ wordpress_id: 428
   * A coupon for a 4 pack of cans of Key Stone Light
 
 
-Local favorites Quidi Vidi Brewing and Yellow Belly Brewery are among those scheduled to attend.  Other Atlantic Canadian Breweries scheduled to be represented include Pump House Brewery (their new Premium Lager), Sleeman, Moosehead, Molson and Labatt.
+Local favorites Quidi Vidi Brewing and Yellow Belly Brewery are among those scheduled to attend.  Other Atlantic Canadian Breweries scheduled to be represented include Pump House Brewery (their new Premium Lager), Sleeman, Moosehead, Molson and Labatt.

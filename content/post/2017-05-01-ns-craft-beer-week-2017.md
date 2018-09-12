@@ -31,7 +31,7 @@ Add this to [Outlook or iCal](https://calendar.google.com/calendar/ical/rttfbcvb
 
 
 
-### **NS Craft Beer Week Map**
+### **NS Craft Beer Week Map**
 
 
 Click the top-left button to see the legend (there's a layer for each day, can select only those days you would like).

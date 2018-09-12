@@ -17,6 +17,6 @@ wordpress_id: 1560
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/07/pei-ipa1.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/07/pei-ipa1.jpg)
 
-As mentioned on their Twitter feed ( [@**PEIBrew**](https://twitter.com/PEIBrew) ), PEI Brewing Company's Gahan 1772 IPA is now available at select ANBL stores in New Brunswick.  The brew is currently available in Greater Moncton, Saint John and Fredericton area stores.
+As mentioned on their Twitter feed ( [@**PEIBrew**](https://twitter.com/PEIBrew) ), PEI Brewing Company's Gahan 1772 IPA is now available at select ANBL stores in New Brunswick.  The brew is currently available in Greater Moncton, Saint John and Fredericton area stores.
 
-In other related news, their Twitter feed also mentions that they have their applications in to get their Gahan Ales and Beach Chair Lager onto the shelves in Nova Scotia although it doesn't specify if it is NSLC locations or the Private liquor stores.  I'll update as more information is available.
+In other related news, their Twitter feed also mentions that they have their applications in to get their Gahan Ales and Beach Chair Lager onto the shelves in Nova Scotia although it doesn't specify if it is NSLC locations or the Private liquor stores.  I'll update as more information is available.

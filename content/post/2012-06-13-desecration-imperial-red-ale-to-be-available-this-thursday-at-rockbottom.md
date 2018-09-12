@@ -17,7 +17,7 @@ wordpress_id: 1405
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/06/rock_bottom.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/06/rock_bottom.jpg)
 
-Rockbottom Brewery will be offering up Desecration Imperial IRA this Thursday.  The new IRA is described as:
+Rockbottom Brewery will be offering up Desecration Imperial IRA this Thursday.  The new IRA is described as:
 
 
 <blockquote>Big, chewy, complex and satisfying with some serious malt balls, nicely balanced with massive quantities of C-hops in classic West Coast tradition.</blockquote>
@@ -27,7 +27,7 @@ Here are the [stats on the new brew from the brewer's blog](http://rockbottombre
 
 **Gravity** - 19 P/1.079
 **IBUs** ~ 65
-**Hop Rate** –  7.5 lbs/bbl
+**Hop Rate** –  7.5 lbs/bbl
 **ABV** - 8.6 %
 **Hops** - Centennial, Cascade, Northern Brewer, Columbus, Magnum
 **Colour** ~ 15.4 SRM

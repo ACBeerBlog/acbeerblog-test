@@ -24,7 +24,7 @@ Over 80 people were in attendance, and were greeted at the door by Tom (who writ
 
 [![Beerthief - The Roast Beef and Tasting Sheet](http://acbeerblog.ca/wp-content/uploads/2013/03/beerthief-the-roast-beef-and-tasting-sheet.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/03/beerthief-the-roast-beef-and-tasting-sheet.jpg)
 
-As we went to our seats, we found a great Roast Beef sandwich to help clean our palates between beers, and the wonderful [Beer Evaluation Sheet](http://beerology.ca/wp-content/uploads/2011/09/Beerology_Tasting.pdf), as created by [Mirella Amato](http://beerology.ca/), a [Master Cicerone](https://cicerone.org/). Mike encouraged us to fill out as much or as little as we liked on the sheet, and use it to help pick out the aromas, flavours and feelings we were getting from the different beers we'd be tasting.
+As we went to our seats, we found a great Roast Beef sandwich to help clean our palates between beers, and the wonderful [Beer Evaluation Sheet](http://beerology.ca/wp-content/uploads/2011/09/Beerology_Tasting.pdf), as created by [Mirella Amato](http://beerology.ca/), a [Master Cicerone](https://cicerone.org/). Mike encouraged us to fill out as much or as little as we liked on the sheet, and use it to help pick out the aromas, flavours and feelings we were getting from the different beers we'd be tasting.
 
 Over the course of the next two hours, Mike (whose website is[ Beerthief.ca](http://www.beerthief.ca)), a Certified Beer Server himself (and going for his Certified Cicerone distinction), lead us through the tasting of four different beers from Charlevoix. We tasted their Dominus Vobiscum Double, Triple, their Vache Folle Imperial Milk Stout, and Dominus Vobiscum Hibernus.
 

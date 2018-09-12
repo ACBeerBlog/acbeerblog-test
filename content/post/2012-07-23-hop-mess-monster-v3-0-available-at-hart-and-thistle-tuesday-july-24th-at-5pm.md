@@ -17,7 +17,7 @@ wordpress_id: 1583
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo1.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo1.jpg)
 
-[Version 3.0 of the legendary Hop Mess Monster](http://hartandthistle.blogspot.ca/2012/07/hop-mess-monster-v30-release.html?utm_source=twitterfeed&utm_medium=twitter) will be available at Hart & Thistle Tuesday, July 24th at 5pm.  The brew was created using monstrous amounts of hops ( over 23lbs / barrel).  The beer is described as:
+[Version 3.0 of the legendary Hop Mess Monster](http://hartandthistle.blogspot.ca/2012/07/hop-mess-monster-v30-release.html?utm_source=twitterfeed&utm_medium=twitter) will be available at Hart & Thistle Tuesday, July 24th at 5pm.  The brew was created using monstrous amounts of hops ( over 23lbs / barrel).  The beer is described as:
 
 
 <blockquote>The world's hoppiest beer: thick with essential hop oils, juicy, fruity, dirty, sweaty, intensely hoppy and sexy just the way we like 'em!</blockquote>

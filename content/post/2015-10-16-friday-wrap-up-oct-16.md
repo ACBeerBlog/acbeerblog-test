@@ -28,7 +28,7 @@ wordpress_id: 8413
 
 There are several new beer releases this week, plus some events worth attending, coming up in the next couple of weeks. Let's get right to it!
 
-• [Tatamagouche Brewing](http://tatabrew.com/) has been busy recently, and we all get to reap the rewards. Firstly, they have released an additional number of bottles from their Giant Beer series, featuring _Giantess Barleywine_, _Baltic Porter_, and _Rum Barrel Aged __Dreadnot Black IPA_, joining the last few _Russian Imperial Stout_ bottles they had released last month. These are the last bottles from the initial run, and would do very well with a few months of cellaring due to the higher alcohol content. We received word that a new batch of barrel-aged _Dreadnot _will be out shortly, after spending some time in Ironworks rum barrels.
+• [Tatamagouche Brewing](http://tatabrew.com/) has been busy recently, and we all get to reap the rewards. Firstly, they have released an additional number of bottles from their Giant Beer series, featuring _Giantess Barleywine_, _Baltic Porter_, and _Rum Barrel Aged __Dreadnot Black IPA_, joining the last few _Russian Imperial Stout_ bottles they had released last month. These are the last bottles from the initial run, and would do very well with a few months of cellaring due to the higher alcohol content. We received word that a new batch of barrel-aged _Dreadnot _will be out shortly, after spending some time in Ironworks rum barrels.
 
 • Another specialty beer from Tata out again is their _Horns Over Hooves_ Double IPA, brewed with the crew from Stubborn Goat. For the first time, this 8.0% ABV and 80 IBU beer will be available on tap, in growlers, AND cans, with the latter available soon at the private stores in Halifax. And, in another first, Tata has sent a shipment of beer to the NSLC. Cans of their _North Shore Lagered Ale_ will be available throughout the province in the coming weeks, allowing drinkers from Yarmouth to Sydney to enjoy their wares. Hopefully this helps to continue the trend of greater access to NS craft beers at the NSLC.
 
@@ -44,31 +44,31 @@ There are several new beer releases this week, plus some events worth attending,
 
 • [Petit-Sault](http://petitsault.com/en/) is releasing yet another brand new beer today, _Simone Hébert_, a Belgian Dubbel named after "an important land owner" in Edmundston in the early 19th century who stood up to American commissioners who claimed his lands were on American territory. Brewed with a little bit of Chocolate malt and plenty of dark Belgian candi syrup to give it the style-classic notes of dark fruit and mild chocolate, it comes through as "rich, malty, and fruity with a surprisingly dry finish", according to the brewery. Hopped lightly with **Willamette** and **Hallertau** to 20 IBUs, it weighs in at 7% ABV. This one will be available only at the brewery for growler fills, so get over there to give it a try!
 
-• Tickets are selling quickly for October 24th's [Celtic Oktoberfest](http://celticoktoberfest.ca/) in Port Hawkesbury. Featuring unlimited sampling from seven breweries and one winery (Big Spruce, Boxing Rock, Breton Brewing, Garrison Brewing, Hell Bay, Tatamagouche, Uncle Leo's, and Eileanan Breagha Vineyards), food from ten different local producers is also included (Barykin Bistro, Buschmann Free Range Bio, Clove Hitch Bar & Bistro, Dancing Goat Cafe & Bakery, Fleur De Lis Tea Room, Governor's Pub & Eatery, Louie's Cosy Corner, Martin's Fine Bakery, Miller's Tap & Grill, and the NSCC Culinary Program). And of course, live music throughout the evening from Nuallan and Beech Hill. [Grab your tickets today](https://www.eventbrite.ca/e/celtic-oktoberfest-2015-tickets-14474994097), it will be a blast!
+• Tickets are selling quickly for October 24th's [Celtic Oktoberfest](http://celticoktoberfest.ca/) in Port Hawkesbury. Featuring unlimited sampling from seven breweries and one winery (Big Spruce, Boxing Rock, Breton Brewing, Garrison Brewing, Hell Bay, Tatamagouche, Uncle Leo's, and Eileanan Breagha Vineyards), food from ten different local producers is also included (Barykin Bistro, Buschmann Free Range Bio, Clove Hitch Bar & Bistro, Dancing Goat Cafe & Bakery, Fleur De Lis Tea Room, Governor's Pub & Eatery, Louie's Cosy Corner, Martin's Fine Bakery, Miller's Tap & Grill, and the NSCC Culinary Program). And of course, live music throughout the evening from Nuallan and Beech Hill. [Grab your tickets today](https://www.eventbrite.ca/e/celtic-oktoberfest-2015-tickets-14474994097), it will be a blast!
 
 • Next week will mark the 11th Anniversary of [Cask Days](http://festival.caskdays.com/) in Toronto. Put on by the family crew that owns Bar Volo, it is a celebration of Cask beer. Thanks to the folks at Bar Stillwell, there will be more than a dozen Maritime beers available at the fest again this year. The full list of beers is available [here](http://festival.caskdays.com/oncask). We reached out to the breweries to find out more details on which beers they would be sending. There are several new beers on the list that we will share the details of, when they are released in our region.
 
-Big Spruce: _Bitter Getter India_ Black IPA and _Gimme Nelson_ American Pale Ale, collab with Stillwell.
+Big Spruce: _Bitter Getter India_ Black IPA and _Gimme Nelson_ American Pale Ale, collab with Stillwell.
 
-Boxing Rock: _The Darkness _Cascadian Dark Ale and _Vicar's Cross _Double IPA
+Boxing Rock: _The Darkness _Cascadian Dark Ale and _Vicar's Cross _Double IPA
 
-Breton Brewing: _Celtic Colours _Maple Lager
+Breton Brewing: _Celtic Colours _Maple Lager
 
 The Brewnosers: _Special Bitter_
 
-Garrison Brewing: _Imperial Chocolate Stout_ and _Vulcan Ale - Genesis Effect _Red Session IPA
+Garrison Brewing: _Imperial Chocolate Stout_ and _Vulcan Ale - Genesis Effect _Red Session IPA
 
 Hell Bay: _English Ale_
 
 North Brewing: _TBA_
 
-PEI Brewing: _Island Vibes_ American Pale Ale and _Roll Out The Barrels (_Barrel Aged Lager w/ _Brett_)
+PEI Brewing: _Island Vibes_ American Pale Ale and _Roll Out The Barrels (_Barrel Aged Lager w/ _Brett_)
 
 Pumphouse: _Thai Wheat_
 
 Tatamagouche Brewing: _Rye & Ginger_
 
-Unfiltered Brewing: _Exile on North Street_ IPA, _Flat Black Jesus_ American Stout, and _Twelve Years To Zion_ Double IPA
+Unfiltered Brewing: _Exile on North Street_ IPA, _Flat Black Jesus_ American Stout, and _Twelve Years To Zion_ Double IPA
 
 Upstreet: _Gravedigger_ Imperial Pumpkin Ale
 

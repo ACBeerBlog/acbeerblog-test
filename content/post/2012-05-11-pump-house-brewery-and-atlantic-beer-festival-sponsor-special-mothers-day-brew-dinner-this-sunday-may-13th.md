@@ -19,7 +19,7 @@ wordpress_id: 1178
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/05/pumphouse.png)](http://acbeerblog.ca/wp-content/uploads/2012/05/pumphouse.png)
 
-Looking for a unique Mother's Day gift?  Tickets are still available for this Sunday's special Mother Day Brew Dinner.  Here are the details on the event:
+Looking for a unique Mother's Day gift?  Tickets are still available for this Sunday's special Mother Day Brew Dinner.  Here are the details on the event:
 
 
 **The Pump House Brewery & The Atlantic Beer Festival **

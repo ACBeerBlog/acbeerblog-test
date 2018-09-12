@@ -39,7 +39,7 @@ The guys have also done some writing outside of the blog, and have been publishe
 
 [Behind the Brew - The Secret Source of a Beer's Character](http://thechronicleherald.ca/craftbeerconnections/1392538-behind-the-brew-the-secret-source-of-a-beer%E2%80%99s-character)
 
-[More craft beer options brewing in the Saint John area](http://www.cbc.ca/news/canada/new-brunswick/craft-beer-buzz-1.3745744) (Interview with Shawn)
+[More craft beer options brewing in the Saint John area](http://www.cbc.ca/news/canada/new-brunswick/craft-beer-buzz-1.3745744) (Interview with Shawn)
 
 [Wet-Hopped Beers: Behind the Brew](http://thechronicleherald.ca/craftbeerconnections/1400515-wet-hopped-beers-behind-the-brew)
 

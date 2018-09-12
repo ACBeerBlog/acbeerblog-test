@@ -61,7 +61,7 @@ From juice to lips, the process takes about 2-3 months to mature to a fuller fla
 
 **From whom have you learned the most in respect to brewing?**
 
-In terms of general production, Sean Dunbar created the craft scene in Fredericton and we're glad to be able to learn from that. In terms of cider production specifically, one name above all others comes to mind: Andrew Lea. A retired research scientist who spent the majority of his career studying most aspects of cider, his work has been invaluable to the new generation of cider makers.
+In terms of general production, Sean Dunbar created the craft scene in Fredericton and we're glad to be able to learn from that. In terms of cider production specifically, one name above all others comes to mind: Andrew Lea. A retired research scientist who spent the majority of his career studying most aspects of cider, his work has been invaluable to the new generation of cider makers.
 
 **You had several free tasting sessions in 2012. Will these continue in 2013, and if so, how does one attend them?**
 

@@ -20,7 +20,7 @@ wordpress_id: 1527
 
 
 
-Beer Guru [Stephen Beaumont](http://worldofbeer.wordpress.com/) will be in attendance at this year's [Halifax Seaport BeerFest](http://seaportbeerfest.com/).  Tickets for the event, which will take place on August 10th & 11th, can be purchased at several [NSLC locations](http://seaportbeerfest.com/wp/?page_id=168) and [online](http://www.ticketatlantic.com/en/home/events/halifaxseaportbeerfest2012/info.aspx) (there are surcharges for online purchases).  Here is the related press release I've received from festival organizers:
+Beer Guru [Stephen Beaumont](http://worldofbeer.wordpress.com/) will be in attendance at this year's [Halifax Seaport BeerFest](http://seaportbeerfest.com/).  Tickets for the event, which will take place on August 10th & 11th, can be purchased at several [NSLC locations](http://seaportbeerfest.com/wp/?page_id=168) and [online](http://www.ticketatlantic.com/en/home/events/halifaxseaportbeerfest2012/info.aspx) (there are surcharges for online purchases).  Here is the related press release I've received from festival organizers:
 
 
 

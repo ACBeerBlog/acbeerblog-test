@@ -23,7 +23,7 @@ Interesting looking menu for this week's [Three Course Thursday](http://thefoggy
 
 [Guide to lager brewing](http://meekbrewingco.blogspot.ca/2012/03/guide-to-lager-brewing.html?spref=tw) from Meek Brewing Co.
 
-[Propeller IPA review](http://leapbeer.wordpress.com/2012/03/22/leapbeer-review-97-india-pale-ale-by-propeller/) from Leapbeer.  How's this for a project, 366 beers in 366 days?
+[Propeller IPA review](http://leapbeer.wordpress.com/2012/03/22/leapbeer-review-97-india-pale-ale-by-propeller/) from Leapbeer.  How's this for a project, 366 beers in 366 days?
 
 [Recent edition](http://www.youtube.com/watch?v=-9ba4wzLHZo&feature=share) of Saint John Ale House tv.
 
@@ -33,7 +33,7 @@ U.S. Craft Brewers [experienced 13% volume growth](http://www.brewersassociation
 
 So where do you think I fit on the [beer blogging attitude spectrum](http://foxtrot.xnoc.net/~baboakey/2012/03/beer-blogging-attitude-spectrum/)?
 
-[Beer infused ice cream](http://www.theday.com/article/20120323/ENT13/303239978/1044/ENT)?  They didn't get a deal!!!!???
+[Beer infused ice cream](http://www.theday.com/article/20120323/ENT13/303239978/1044/ENT)?  They didn't get a deal!!!!???
 
 List of [beer blogs](http://beerbloggersconference.org/blogs/complete-list-of-beer-blogs/) from around the world.
 

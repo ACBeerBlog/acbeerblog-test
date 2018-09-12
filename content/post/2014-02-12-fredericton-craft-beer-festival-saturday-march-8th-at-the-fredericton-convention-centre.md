@@ -47,7 +47,7 @@ There will be a few different food samples available, such as popcorn from [Magz
 
 **Are any hotels in the city offering discounted rates for the festival?**
 
-Yes, the [Crowne Plaza Fredericton/Lord Beaverbrook](http://www.ihg.com/crowneplaza/hotels/us/en/fredericton/yfcqs/hoteldetail) is currently offering a festival rate of $109/night for both Friday and Saturday, March 7th and 8th._ [note: the link for the discounted rate is [here](https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10870992&utm_source=55344&utm_medium=email&utm_campaign=26787945)]_
+Yes, the [Crowne Plaza Fredericton/Lord Beaverbrook](http://www.ihg.com/crowneplaza/hotels/us/en/fredericton/yfcqs/hoteldetail) is currently offering a festival rate of $109/night for both Friday and Saturday, March 7th and 8th._ [note: the link for the discounted rate is [here](https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10870992&utm_source=55344&utm_medium=email&utm_campaign=26787945)]_
 
 **It looks like you're expecting more breweries and beer for this year's festival, compared to last year?**
 
@@ -63,63 +63,63 @@ Just that we're really happy to be able to build on the success of last year's f
 
 _The following is a list of the breweries and distributors that will be attending the festival, along with the products they have indicated that they are bringing. Keep in mind these products are subject to change, and some have not been announced yet. We will continue to update this list as we find out more information:_
 
-[Atlantic Spirits &Wines](http://www.aswl.ca/) (Dartmouth, NS) - Somersby Cider, Carlsberg, Kronenbourg 1664, Mill Street Organic, Lake of Bays Brewing Old North Mocha Porter
+[Atlantic Spirits &Wines](http://www.aswl.ca/) (Dartmouth, NS) - Somersby Cider, Carlsberg, Kronenbourg 1664, Mill Street Organic, Lake of Bays Brewing Old North Mocha Porter
 
 
 [Bad Apple Brewhouse](https://www.facebook.com/badapplebrewhouse) (Berwick, NS) - Barrel-Aged Black and Tackle RIS, Double IPA
 
-[Barnone Brewing](https://www.facebook.com/BarNone.Brewing) (Rose Valley, PEI) - IPA, Pale Ale, Summer Sessions
+[Barnone Brewing](https://www.facebook.com/BarNone.Brewing) (Rose Valley, PEI) - IPA, Pale Ale, Summer Sessions
 
-[Big Spruce Brewing](https://www.facebook.com/BigSpruceBrewing) (Nyanza, NS) - Bitter Get'er India Black IPA, Cereal Killer Oatmeal Stout
+[Big Spruce Brewing](https://www.facebook.com/BigSpruceBrewing) (Nyanza, NS) - Bitter Get'er India Black IPA, Cereal Killer Oatmeal Stout
 
-[Big Tide Brewing Company](http://www.bigtidebrew.com/) (Saint John, NB) - Simms Pale Ale, Whistlepig Stout
+[Big Tide Brewing Company](http://www.bigtidebrew.com/) (Saint John, NB) - Simms Pale Ale, Whistlepig Stout
 
-[Boxing Rock Brewing](http://www.boxingrock.ca/) (Shelburne, NS) - Temptation Red Ale, Hunky Dory Pale Ale, The Vicar's Cross Double IPA
+[Boxing Rock Brewing](http://www.boxingrock.ca/) (Shelburne, NS) - Temptation Red Ale, Hunky Dory Pale Ale, The Vicar's Cross Double IPA
 
-[Bruce Ashley Group](http://www.alepeople.com/) (Markham, ON) - Faxe Premium, Chechvar Bitburger, Tiger Beer, Belhaven Best, Greene King Abbot Ale, Wells Banana Bread Beer, Duchy Original Organic Ale, Bitburger Wernesgruner Pils, Young's Double Chocolate Stout, Central City Red Racer IPA
+[Bruce Ashley Group](http://www.alepeople.com/) (Markham, ON) - Faxe Premium, Chechvar Bitburger, Tiger Beer, Belhaven Best, Greene King Abbot Ale, Wells Banana Bread Beer, Duchy Original Organic Ale, Bitburger Wernesgruner Pils, Young's Double Chocolate Stout, Central City Red Racer IPA
 
-[Bushwakker Brewing Company](http://www.bushwakker.com/) (Regina, SK) - Missiletow Ale, Stubblejumper Pilsner, Palliser Porter
+[Bushwakker Brewing Company](http://www.bushwakker.com/) (Regina, SK) - Missiletow Ale, Stubblejumper Pilsner, Palliser Porter
 
-[Churchill Cellars](http://www1.churchillcellars.com/) (Toronto, ON) - Bavaria 8.6 (Original), Bavaria 8.6 Red
+[Churchill Cellars](http://www1.churchillcellars.com/) (Toronto, ON) - Bavaria 8.6 (Original), Bavaria 8.6 Red
 
-[Creemore Springs Brewery](http://www.creemoresprings.com/en/Home.aspx) (Creemore, ON) - Creemore Springs Premium Lager, Creemore Springs Traditional Pilsner, Mad & Noisy Hops & Bolts, Granville Island English Bay Pale Ale
+[Creemore Springs Brewery](http://www.creemoresprings.com/en/Home.aspx) (Creemore, ON) - Creemore Springs Premium Lager, Creemore Springs Traditional Pilsner, Mad & Noisy Hops & Bolts, Granville Island English Bay Pale Ale
 
 [Fuller's Brewery](http://www.fullers.co.uk/) (Chiswick, London, UK) - ESB, London Porter, London Pride, Organic Honey Dew
 
-[Garrison Brewing Co.](http://www.garrisonbrewing.com/) (Halifax, NS) - Hop Yard, Nut Brown, Irish Red, Raspberry Wheat, Imperial IPA, Martello Stout, Glutenberg American Pale Ale, Glutenberg Blonde
+[Garrison Brewing Co.](http://www.garrisonbrewing.com/) (Halifax, NS) - Hop Yard, Nut Brown, Irish Red, Raspberry Wheat, Imperial IPA, Martello Stout, Glutenberg American Pale Ale, Glutenberg Blonde
 
-[Grimross Brewing Company](https://www.facebook.com/pages/Grimross-Brewing-Co/110264115801307) (Fredericton, NB) - Cheval D'Or, Ben's Bitter Pale Ale, Belgian Rye IPA
+[Grimross Brewing Company](https://www.facebook.com/pages/Grimross-Brewing-Co/110264115801307) (Fredericton, NB) - Cheval D'Or, Ben's Bitter Pale Ale, Belgian Rye IPA
 
-[Innis and Gunn](http://www.innisandgunn.com/) (Edinburgh, Scotland) - Lager, Original Oak Aged Beer, Toasted Oak IPA, Melville's Ginger Beer
+[Innis and Gunn](http://www.innisandgunn.com/) (Edinburgh, Scotland) - Lager, Original Oak Aged Beer, Toasted Oak IPA, Melville's Ginger Beer
 
-[McAuslan Brewery](http://mcauslan.com/en/) (Montreal, QC) - St. Ambroise Pale Ale, St. Ambroise Oatmeal Stout, St. Ambroise Apricot Wheat
+[McAuslan Brewery](http://mcauslan.com/en/) (Montreal, QC) - St. Ambroise Pale Ale, St. Ambroise Oatmeal Stout, St. Ambroise Apricot Wheat
 
-[McClelland Premium Imports](http://www.mcclellandbeers.ca/) (Mississauga, ON) - Erdinger Weissbier, Erdinger Weissbier Dunkel, Affligem Blond, Fruli Strawberry, Stiegl Lager, Stiegl Radler, Mort Subite Kriek, Mongozo Premium Pilsner, Palm Speciale, Delirium Tremens
+[McClelland Premium Imports](http://www.mcclellandbeers.ca/) (Mississauga, ON) - Erdinger Weissbier, Erdinger Weissbier Dunkel, Affligem Blond, Fruli Strawberry, Stiegl Lager, Stiegl Radler, Mort Subite Kriek, Mongozo Premium Pilsner, Palm Speciale, Delirium Tremens
 
-[Molson Coors](http://www.molsoncoors.com/en/Index.aspx) (Toronto, ON) - Rickard's Red, Rickard's White, Rickard's Blonde, Rickard's Dark
+[Molson Coors](http://www.molsoncoors.com/en/Index.aspx) (Toronto, ON) - Rickard's Red, Rickard's White, Rickard's Blonde, Rickard's Dark
 
-[Moosehead](http://moosehead.ca/) (Saint John, NB) - Moosehead Boundary Ale, Moosehead Cask, Sam Adams Boston Lager, Sam Adams Latitude 48, Sam Adams Cold Snap, Hop City Barking Squirrel, Hop City Big Mouth Pale Ale, Magners Irish Cider, Magners Irish Pear Cider, Blackthorn Cider
+[Moosehead](http://moosehead.ca/) (Saint John, NB) - Moosehead Boundary Ale, Moosehead Cask, Sam Adams Boston Lager, Sam Adams Latitude 48, Sam Adams Cold Snap, Hop City Barking Squirrel, Hop City Big Mouth Pale Ale, Magners Irish Cider, Magners Irish Pear Cider, Blackthorn Cider
 
-[Le Naufrageur](http://www.lenaufrageur.com/) (Carleton-sur-mer, QC) - Leonne, La Malauze, Colborne, Corte-Real, Saint-Barnabe, Swordfish, Carrick, Penelope, Ale Amerindienne, Ale Amerindienne Double Blanche (Tanaisie)
+[Le Naufrageur](http://www.lenaufrageur.com/) (Carleton-sur-mer, QC) - Leonne, La Malauze, Colborne, Corte-Real, Saint-Barnabe, Swordfish, Carrick, Penelope, Ale Amerindienne, Ale Amerindienne Double Blanche (Tanaisie)
 
-[North Brewing Company](http://www.northbrewing.ca/) (formerly Bridge Brewing, Halifax, NS) - Belgian IPA, Saison, Strong Dark Belgian
+[North Brewing Company](http://www.northbrewing.ca/) (formerly Bridge Brewing, Halifax, NS) - Belgian IPA, Saison, Strong Dark Belgian
 
 [Northampton Brewing Company/Picaroons](https://www.facebook.com/picaroons) (Fredericton, NB) - Maple Cream Ale, A Parcel of Rogues, Ember Ale, Afterglow Aphrodisiac Ale, Best Bitter, Dark & Stormy Night, Man's Best Friend
 
-[PEI Brewing Company](http://peibrewingcompany.com/) (Charlottetown, PEI) - Sir John A's Honey Wheat, Sydney Street Stout, 1772 IPA, Island Red, Iron Bridge Brown, Beach Chair Lager, Blueberry Ale, and a TBD cask
+[PEI Brewing Company](http://peibrewingcompany.com/) (Charlottetown, PEI) - Sir John A's Honey Wheat, Sydney Street Stout, 1772 IPA, Island Red, Iron Bridge Brown, Beach Chair Lager, Blueberry Ale, and a TBD cask
 
 [Pump House Brewery](http://beer.pumphousebrewery.ca/) (Moncton, NB) - Fire Chief's Red Ale, Scotch Ale, S.O.B., Cadian Cream Ale, Premium Lager
 
-[Red Rover Brewing](http://www.redroverbrew.com/) (Fredericton, NB) - Spring Cider, Summer Cider, Fall Cider
+[Red Rover Brewing](http://www.redroverbrew.com/) (Fredericton, NB) - Spring Cider, Summer Cider, Fall Cider
 
-[Shiretown Beer](https://www.facebook.com/shiretown) (Rover Charlo, NB) - Blonde du Quai, Big Brown Ale, Siren's T'Ale
+[Shiretown Beer](https://www.facebook.com/shiretown) (Rover Charlo, NB) - Blonde du Quai, Big Brown Ale, Siren's T'Ale
 
-[Sleeman Breweries Ltd](http://www.sleeman.ca) (Guelph, ON) - Sleeman Cream Ale, Sleeman Silver Creek Lager, Unibroue Maudite, Unibroue Ephemere Pomme, Okanagan Mild Winter Ale
+[Sleeman Breweries Ltd](http://www.sleeman.ca) (Guelph, ON) - Sleeman Cream Ale, Sleeman Silver Creek Lager, Unibroue Maudite, Unibroue Ephemere Pomme, Okanagan Mild Winter Ale
 
 [Sunset Heights Meadery](https://www.facebook.com/SunsetHeightsMeadery) (Fredericton, NB) - Queen's Nectar Sparkling Mead, Pollen Angels (four flavors: Blueberry-Apple, Raspberry-Kiwi, Iced Tea, and likely Cranberry-Maple)
 
-[Uncle Leo's Brewery](uncleleosbrewery.ca) (Lyons Brook, NS) - Red, IPA, Smoked Porter
+[Uncle Leo's Brewery](uncleleosbrewery.ca) (Lyons Brook, NS) - Red, IPA, Smoked Porter
 
-[Windward Imports](http://www.windwardimports.com/) (Halifax, NS) - Grolsch Lager, Pilsner Urquell, Peroni, Sea Dog Wild Blueberry Wheat Ale, Shipyard Export Ale, Shipyard Monkey Fist IPA
+[Windward Imports](http://www.windwardimports.com/) (Halifax, NS) - Grolsch Lager, Pilsner Urquell, Peroni, Sea Dog Wild Blueberry Wheat Ale, Shipyard Export Ale, Shipyard Monkey Fist IPA
 
 For those of you lucky enough to have tickets, you're in for a great time! We'll be there representing the ACBB. Stay tuned over the next few weeks leading up to the festival - we'll be holding a contest to win two VIP tickets. Look for that sometime during the first week of March.

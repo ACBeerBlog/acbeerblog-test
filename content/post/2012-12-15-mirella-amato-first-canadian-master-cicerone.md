@@ -17,7 +17,7 @@ wordpress_id: 2352
 
 [![beerology](http://acbeerblog.ca/wp-content/uploads/2012/12/beerology.jpg)](http://atlanticcanadabeerblog.wordpress.com/2012/12/14/mirella-amato-first-canadian-master-cicerone/beerology/)
 
-Mirella Amato recently contacted me to advise me of a press release regarding her becoming the first and only Canadian Master Cicerone.  Following the press release I've added her response to my questions as to her thoughts on the local scene and whether or not she has plans to return to our area in the foreseeable future.
+Mirella Amato recently contacted me to advise me of a press release regarding her becoming the first and only Canadian Master Cicerone.  Following the press release I've added her response to my questions as to her thoughts on the local scene and whether or not she has plans to return to our area in the foreseeable future.
 
 Toronto – Dec 13, 2012 – The first Canadian Master Cicerone® is declared; Mirella Amato is now one of only six Master Cicerones in North America. It’s remarkable that a woman should be the first Canadian to earn this high distinction in a typically male dominated industry.
 
@@ -29,13 +29,13 @@ To become a Master Cicerone®, candidates must get top marks (at least 85%) in t
 
 According to the Cicerone (pronounced sis-uh-rohn) program website, a Master Cicerone® must "possess encyclopedic knowledge of beer" and have "highly refined tasting ability."
 
-**Move over wine, beer is raising the bar  **
+**Move over wine, beer is raising the bar  **
 
 SCTV legends, Bob and Doug McKenzie, would probably be blown away by Mirella’s accomplishment. No doubt they would say “beauty.”
 
 Experts like Mirella are reshaping the future of beer with their specialized knowledgeable and passion for the craft. With consumer demand for specialized beer expertise on the rise and the burgeoning craft-beer industry, the concept of beer experts with an elite pedigree is garnering credibility and respect.
 
-“Because my area of specialization is so new, it’s important to me that people know they can trust my level of expertise. The Craft Beer Institute’s Cicerone program provides exactly that; it's an independent assessment by an established and credible organization,” says Mirella Amato.
+“Because my area of specialization is so new, it’s important to me that people know they can trust my level of expertise. The Craft Beer Institute’s Cicerone program provides exactly that; it's an independent assessment by an established and credible organization,” says Mirella Amato.
 
 The master wine sommelier had better watch out, as the popularity, novelty, and abundance of beer is embraced by a new breed of hip gourmet foodies and drinkers.
 
@@ -87,9 +87,9 @@ After receiving the press release from Mirella, I asked her the following questi
   * What are your thoughts on the beers coming out of Atlantic Canada?
 
 	
-  * Last March you hosted [a Women Love Beer Too Event](http://atlanticcanadabeerblog.wordpress.com/2012/02/16/picaroons-presents-ladies-love-beer-too-event-in-fredericton-march-8th) sponsored byPicaroons.  Do you have any plans for future events in Atlantic Canada?
+  * Last March you hosted [a Women Love Beer Too Event](http://atlanticcanadabeerblog.wordpress.com/2012/02/16/picaroons-presents-ladies-love-beer-too-event-in-fredericton-march-8th) sponsored byPicaroons.  Do you have any plans for future events in Atlantic Canada?
 
 
 Here is her response:
 
-I had a fantastic time in Fredericton earlier this year, working with Picaroons and the Garrison District Ale House on some beer tastings. I was also brought in by Garrison Brewing last year to lead some tastings at Seaport BeerFest, which gave me a great opportunity to sample beers from all over Atlantic Canada. As of now, I don't have any upcoming gigs in your area but I do hope to have the opportunity to work out East again soon! I've met so many people out there who are passionate about beer, both from the consumer side and on the brewing side of things. It's a great energy! Out here in Toronto, we don't have access to a lot of beers from Atlantic Canada, so I love being able to come down and discover what's brewing. Also, I've become quite obsessed about getting out to The Laundromat Espresso Bar in Moncton.... I think it's awesome that there's a brewery so tiny that it only has one tap in one place in the whole entire world... it rouses the beer geek in me!
+I had a fantastic time in Fredericton earlier this year, working with Picaroons and the Garrison District Ale House on some beer tastings. I was also brought in by Garrison Brewing last year to lead some tastings at Seaport BeerFest, which gave me a great opportunity to sample beers from all over Atlantic Canada. As of now, I don't have any upcoming gigs in your area but I do hope to have the opportunity to work out East again soon! I've met so many people out there who are passionate about beer, both from the consumer side and on the brewing side of things. It's a great energy! Out here in Toronto, we don't have access to a lot of beers from Atlantic Canada, so I love being able to come down and discover what's brewing. Also, I've become quite obsessed about getting out to The Laundromat Espresso Bar in Moncton.... I think it's awesome that there's a brewery so tiny that it only has one tap in one place in the whole entire world... it rouses the beer geek in me!

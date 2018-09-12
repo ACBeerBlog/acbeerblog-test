@@ -15,7 +15,7 @@ wordpress_id: 12312
 
 [![](http://acbeerblog.ca/wp-content/uploads/2018/01/thinkbrewinglogo.jpg)](http://acbeerblog.ca/wp-content/uploads/2018/01/thinkbrewinglogo.jpg)
 
-Last May, [Think Brewing](https://www.facebook.com/thinkbrewing/) announced that they would be opening their nano brewery in Harvey, New Brunswick (approximately 40 km outside of Fredericton). Owned by Scott and Denise MacLean, the brewery is located at the couple's 150-year-old farmhouse, where they also reside. With Think beers likely coming out any day now, we finally exchanged emails with Scott to get a bit of a preview on plans for the brewery's launch.
+Last May, [Think Brewing](https://www.facebook.com/thinkbrewing/) announced that they would be opening their nano brewery in Harvey, New Brunswick (approximately 40 km outside of Fredericton). Owned by Scott and Denise MacLean, the brewery is located at the couple's 150-year-old farmhouse, where they also reside. With Think beers likely coming out any day now, we finally exchanged emails with Scott to get a bit of a preview on plans for the brewery's launch.
 
 **Can you tell us a little bit about yourself?
 **I'm an Engineering Technician and my wife, Denise, is a potter. We have two grown sons and a granddaughter. In the past we were a certified organic farm with a market garden and greenhouses. A month after we were married we bought the 150 year-old farmhouse that we still live in. We have spent many enjoyable years upgrading the house and working on the gardens and land. The original barn has been our most recent project and now houses our brewery. We enjoy travelling, outdoor activities, gardening and cooking.
@@ -35,12 +35,12 @@ Last May, [Think Brewing](https://www.facebook.com/thinkbrewing/) announced that
 **We brew on a 1 barrel (115 L), propane- fired system, with the capacity to do around 3 barrels per week.
 
 **What are your plans for distribution?
-**The [James Joyce](https://www.facebook.com/The-James-Joyce-Pub-187205728006725/?fref=ts) in Fredericton will be carrying our beers on tap by **this coming weekend**. Our local pub in Harvey, [The Loch Pub & Grill](https://www.facebook.com/LougheedPub/), is currently closed for renovations but will have our beers on tap when they re-open. We are not licensed for on-site sales at this time.
+**The [James Joyce](https://www.facebook.com/The-James-Joyce-Pub-187205728006725/?fref=ts) in Fredericton will be carrying our beers on tap by **this coming weekend**. Our local pub in Harvey, [The Loch Pub & Grill](https://www.facebook.com/LougheedPub/), is currently closed for renovations but will have our beers on tap when they re-open. We are not licensed for on-site sales at this time.
 
 **Can you tell us about the beers you plan on offering initially?**Our initial release will be _Revelation IPA_ (6.5% ABV, 65 IBU), an American style IPA with a bit of English style in the background, and _Eureka ESB_, (5.9% ABV, 40 IBU). Beyond that we plan to be a bit style diverse. We will have seasonals down the road and a DIPA will be coming soon.
 
 **Have you had any assistance from other breweries/people in Atlantic Canada (or elsewhere)?
-**We’ve had a lot of help and support, so many people in fact that I’m afraid to leave someone out. Randy Rowe and I learned so much brewing together weekly on our pilot system. Jake Saunders and Dan Mason of [Trailway](http://www.trailwaybrewing.com/), and Paul Maybee from [Maybee Brewing](http://www.maybeebrew.com/) are always willing to answer questions. Being a member of the [New Brunswick Craft Brewer's Association](http://nbcba.org/forum/) _[a local homebrew club]_ and going to the Saturday meetings was a huge help. The club has so many knowledgeable and talented brewers; I can’t say enough about them. Finally, we have to thank Philip LeBlanc for designing our logo.
+**We’ve had a lot of help and support, so many people in fact that I’m afraid to leave someone out. Randy Rowe and I learned so much brewing together weekly on our pilot system. Jake Saunders and Dan Mason of [Trailway](http://www.trailwaybrewing.com/), and Paul Maybee from [Maybee Brewing](http://www.maybeebrew.com/) are always willing to answer questions. Being a member of the [New Brunswick Craft Brewer's Association](http://nbcba.org/forum/) _[a local homebrew club]_ and going to the Saturday meetings was a huge help. The club has so many knowledgeable and talented brewers; I can’t say enough about them. Finally, we have to thank Philip LeBlanc for designing our logo.
 
 [![](http://acbeerblog.ca/wp-content/uploads/2018/01/IMG_1978.jpg)](http://acbeerblog.ca/wp-content/uploads/2018/01/IMG_1978.jpg)
 

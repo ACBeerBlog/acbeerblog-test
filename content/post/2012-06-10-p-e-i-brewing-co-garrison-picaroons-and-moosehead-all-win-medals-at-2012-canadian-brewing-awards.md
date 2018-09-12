@@ -30,4 +30,4 @@ Picaroon's, [last year's Brewery of the Year](http://www.canadianbrewingawards.c
 
 Moosehead Breweries won a Gold for Cracked Canoe Premium Light Lager, a Silver for Moose Light and Bronze medals for Alpine Lager and Moose Light Lime.
 
-A la Fut's Co-Hop V was named Beer of the Year and Central City Brewing Co. was named Brewery of the Year.  A full list of award winners is available on the [Great Canadian Beer Blog](http://www.greatcanadianbeerblog.com/2012/06/2012-canadian-brewing-award-winners.html).
+A la Fut's Co-Hop V was named Beer of the Year and Central City Brewing Co. was named Brewery of the Year.  A full list of award winners is available on the [Great Canadian Beer Blog](http://www.greatcanadianbeerblog.com/2012/06/2012-canadian-brewing-award-winners.html).

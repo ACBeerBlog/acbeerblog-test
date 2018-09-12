@@ -15,7 +15,7 @@ url: /2012/07/26/multiple-members-of-the-brewnosers-win-at-the-canadian-amateur-
 wordpress_id: 1604
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/07/caba.png)](http://acbeerblog.ca/wp-content/uploads/2012/07/caba.png)Several members of the Halifax based [Brewnosers](http://brewnosers.org/) homebrewing club recently won awards at the Canadian Amateur Brewing Association [2012 Anything Goes Competition](http://www.homebrewers.ca/2012/07/caba-2012-anything-goes-competition-winners/).  Members of the club winning awards were:
+[![](http://acbeerblog.ca/wp-content/uploads/2012/07/caba.png)](http://acbeerblog.ca/wp-content/uploads/2012/07/caba.png)Several members of the Halifax based [Brewnosers](http://brewnosers.org/) homebrewing club recently won awards at the Canadian Amateur Brewing Association [2012 Anything Goes Competition](http://www.homebrewers.ca/2012/07/caba-2012-anything-goes-competition-winners/).  Members of the club winning awards were:
 
 **Ale**
 

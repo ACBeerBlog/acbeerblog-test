@@ -15,7 +15,7 @@ wordpress_id: 1551
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/07/pp_generic_1_reasonably_small.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/07/pp_generic_1_reasonably_small.jpg)
 
-VIP ticket packages for the second annual Prince Edward Island BeerFest go on sale today at 10am. The VIP package includes tickets for both Thursday, September 6th and Friday, September 7th tasting sessions and includes Patio Party access, a souvenir PEI BeerFest mug (for the first 50) and allows ticket holders 30 minutes earlier access to tasting.  Tickets can be purchased [online](http://www.ticketbreak.com/event_details/5345) and cost $89.75 plus tax.
+VIP ticket packages for the second annual Prince Edward Island BeerFest go on sale today at 10am. The VIP package includes tickets for both Thursday, September 6th and Friday, September 7th tasting sessions and includes Patio Party access, a souvenir PEI BeerFest mug (for the first 50) and allows ticket holders 30 minutes earlier access to tasting.  Tickets can be purchased [online](http://www.ticketbreak.com/event_details/5345) and cost $89.75 plus tax.
 
 Regular tickets for the Thursday ($42.75 plus tax) and Friday ($47.75) sessions will go on sale July 20th at 10 am.
 

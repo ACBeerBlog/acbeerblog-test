@@ -19,32 +19,32 @@ Here's a press release I've received regarding the 1st Annual PEI International 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/08/pei-int-beer-festival-large.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/08/pei-int-beer-festival-large.jpg)
 
 
- **New Beer Festival Pairs International Brew with Island Food and Entertainment **
+ **New Beer Festival Pairs International Brew with Island Food and Entertainment **
 
 
 
 
-**1****st ****Annual PEI International Beer Festival **
+**1****st ****Annual PEI International Beer Festival **
 
 
 
 
-**September 28-29, 2012 **
+**September 28-29, 2012 **
 
 
 
 
-**Charlottetown Event Grounds **
+**Charlottetown Event Grounds **
 
 
 
 
-**[www.peibrewingcompany.com/beerfestival](http://www.peibrewingcompany.com/beerfestival) **
+**[www.peibrewingcompany.com/beerfestival](http://www.peibrewingcompany.com/beerfestival) **
 
 
 
 
-**(Charlottetown, PE – August 30, 2012) **
+**(Charlottetown, PE – August 30, 2012) **
 
 
 

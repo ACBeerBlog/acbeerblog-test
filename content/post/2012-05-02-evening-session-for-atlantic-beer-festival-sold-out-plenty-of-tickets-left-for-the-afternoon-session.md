@@ -14,8 +14,8 @@ url: /2012/05/02/evening-session-for-atlantic-beer-festival-sold-out-plenty-of-t
 wordpress_id: 1133
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/05/atlbeerfest.png)](http://acbeerblog.ca/wp-content/uploads/2012/05/atlbeerfest.png)Tickets for the evening session of the Atlantic Beer Festival have completely sold out.  There are still plenty of tickets left for the afternoon session (2:30 - 5:00) which will take place at the Moncton Coliseum on May 26th.
+[![](http://acbeerblog.ca/wp-content/uploads/2012/05/atlbeerfest.png)](http://acbeerblog.ca/wp-content/uploads/2012/05/atlbeerfest.png)Tickets for the evening session of the Atlantic Beer Festival have completely sold out.  There are still plenty of tickets left for the afternoon session (2:30 - 5:00) which will take place at the Moncton Coliseum on May 26th.
 
 Tickets are $44.50 and can be purchased [online](https://tickets.moncton.ca/Online/default.asp?brand=TradeShowsAndExhibits&sessionlanguage=EN), at the Coliseum Box Office, the Pump House, the Barn Yard BBQ and Greater Moncton Sobey's locations.
 
-While I haven't seen a full list of beers that will be available to sample, I can confirm that Acadie-Broue beer will only be available at the afternoon session.  La Tintamarre, which is a Saison,  and la Kiebitz Coti, which is a Berliner Weiss, are both scheduled to be available in the afternoon session.
+While I haven't seen a full list of beers that will be available to sample, I can confirm that Acadie-Broue beer will only be available at the afternoon session.  La Tintamarre, which is a Saison,  and la Kiebitz Coti, which is a Berliner Weiss, are both scheduled to be available in the afternoon session.

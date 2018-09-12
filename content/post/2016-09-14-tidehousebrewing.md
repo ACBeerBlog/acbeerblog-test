@@ -18,7 +18,7 @@ wordpress_id: 11015
 
 
 
-[Tidehouse Brewing](http://facebook.com/tidehousebrewingcompany/) is the partnership between Shean Higgins and Peter Lionais, two avid homebrewers in Halifax. They are taking their passion for well-crafted beer to the next level, and will be opening shop this fall. Located at [5187 Salter Street](https://goo.gl/maps/GCcbwEfrhyT2), their brewery and retail shop are right in the heart of downtown. We caught up with the boys to learn a bit more about them, and their plans for the brewery.
+[Tidehouse Brewing](http://facebook.com/tidehousebrewingcompany/) is the partnership between Shean Higgins and Peter Lionais, two avid homebrewers in Halifax. They are taking their passion for well-crafted beer to the next level, and will be opening shop this fall. Located at [5187 Salter Street](https://goo.gl/maps/GCcbwEfrhyT2), their brewery and retail shop are right in the heart of downtown. We caught up with the boys to learn a bit more about them, and their plans for the brewery.
 
 **Can you tell us a little bit about yourselves?
 **Shean hails from the woods of New Brunswick, and is seemingly always occupied by some kind of DIY project, with almost an obsessive focus on home improvement projects, woodworking, brewing, etc. Oh, and handsome; he's really, really handsome.
@@ -42,7 +42,7 @@ Peter is a Cape Breton ex-pat who has been living in Halifax since 2003. He used
 **What are your plans for distribution?
 **To start, we are focusing on pre-filled growler sales from our 5187 Salter St. location. We will have our own branded refillable bottle, but will be filling other clean growlers/refillable bottles. We will be sending some kegs/casks to our favourite craft beer hangouts/tap rooms.
 
-[caption id="attachment_11034" align="aligncenter" width="936"][![tidehouse_deliveryvan](http://acbeerblog.ca/wp-content/uploads/2017/09/tidehouse_deliveryvan.jpg)](https://www.instagram.com/p/BKMCuUrD9PK/?taken-by=tidehousebrewing) Thankfully they won't have to drive far to deliver their beer, as the Tidehouse delivery van needs a little work... From https://www.instagram.com/tidehousebrewing/[/caption]
+[caption id="attachment_11034" align="aligncenter" width="936"][![tidehouse_deliveryvan](http://acbeerblog.ca/wp-content/uploads/2017/09/tidehouse_deliveryvan.jpg)](https://www.instagram.com/p/BKMCuUrD9PK/?taken-by=tidehousebrewing) Thankfully they won't have to drive far to deliver their beer, as the Tidehouse delivery van needs a little work... From https://www.instagram.com/tidehousebrewing/[/caption]
 
 **Do you have some initial accounts in the area lined up to serve your beers?
 **Nope! But we will soon!
@@ -56,7 +56,7 @@ _Like A Motorcyc-ale_ – We were inspired by our friends' band [Like A Motorcyc
 We are launching with four titles, but will add in one-offs and seasonals as we like.
 
 **Have you had any assistance from other breweries/people in Atlantic Canada (or elsewhere)?
-**We are definitely excited to be joining an industry that is so friendly and collaborative. We have learned a lot from [Big Spruce](http://www.bigspruce.ca/), [North Brewing](http://www.northbrewing.ca/), [Good Robot](http://goodrobotbrewing.ca), [Sober Island](https://www.facebook.com/soberislandbrewing/?fref=ts) and even fellow new comers [2 Crows](http://2crowsbrewing.com/) and [Bore City](http://www.borecitybrewing.com/). "The rising tide floats all boats" truly does apply in our region, and we think most of the breweries out there recognize that. We are also very thankful for the help we've received from Noble Grape; the Haynes brothers have been hugely influential and big supporters of our project for quite some time. We've learned a lot from the home brewers of Halifax both those involved in the [Brewnosers](http://www.brewnosers.org/forums) club and our enthusiastic customers at Noble Grape. We didn't just teach people to how to brew beer, many of them taught us a thing or two.
+**We are definitely excited to be joining an industry that is so friendly and collaborative. We have learned a lot from [Big Spruce](http://www.bigspruce.ca/), [North Brewing](http://www.northbrewing.ca/), [Good Robot](http://goodrobotbrewing.ca), [Sober Island](https://www.facebook.com/soberislandbrewing/?fref=ts) and even fellow new comers [2 Crows](http://2crowsbrewing.com/) and [Bore City](http://www.borecitybrewing.com/). "The rising tide floats all boats" truly does apply in our region, and we think most of the breweries out there recognize that. We are also very thankful for the help we've received from Noble Grape; the Haynes brothers have been hugely influential and big supporters of our project for quite some time. We've learned a lot from the home brewers of Halifax both those involved in the [Brewnosers](http://www.brewnosers.org/forums) club and our enthusiastic customers at Noble Grape. We didn't just teach people to how to brew beer, many of them taught us a thing or two.
 
 **Where do you hope to see your brewery in the next 2-3 years?
 **We plan to expand from what we can brew in our Salter St. space and have a larger production brewhouse set up, while still slinging growlers and producing fun one-offs in the downtown Halifax location. At the moment there are no plans for a pub or tap-room, however there IS available space in the unit directly next door. *wink*

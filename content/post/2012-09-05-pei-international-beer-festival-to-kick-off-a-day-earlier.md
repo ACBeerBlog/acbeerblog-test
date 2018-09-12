@@ -22,7 +22,7 @@ wordpress_id: 1847
 
 
 
-I received the following press release about the upcoming PEI International Beer Festival earlier today.  This will be the second beer festival on the Island in September with the [PEI Beer Festival taking place Thursday, September 6th and Friday, September 7th.  ](http://www.peibeerfestival.ca/)
+I received the following press release about the upcoming PEI International Beer Festival earlier today.  This will be the second beer festival on the Island in September with the [PEI Beer Festival taking place Thursday, September 6th and Friday, September 7th.  ](http://www.peibeerfestival.ca/)
 
 
 
@@ -35,7 +35,7 @@ I received the following press release about the upcoming PEI International Beer
 
 
 
-**1st Annual PEI International Beer Festival**
+**1st Annual PEI International Beer Festival**
 
 
 
@@ -68,7 +68,7 @@ ABOUT PEI INTERNATIONAL BEER FESTIVAL
 
 This September 28th and 29th downtown Charlottetown will come alive as the Prince Edward Island Brewing Company hosts a vibrant mix of world-class brewers, Island chefs, and a variety of late night entertainment as the 1st annual Prince Edward Island International Beer Festival kicks off at the new Charlottetown event grounds on Grafton St. As an official Fall Flavours Culinary event, this new festival will showcase Island ingredients from land and sea prepared by local chefs as each culinary offering is created to pair with some of the most prestigious beers of the world.
 
-Over sixty varieties of International beer are confirmed to date from the following breweries:  MolsonCoors, Labatt Breweries, Pumphouse Brewery (Moncton), Picaroons Brewing Company (Fredericton), Garrison Brewery (Halifax),  Erdinger Weissbrau (Germany),  RockBottom Brewpub (Halifax), Stiegl (Austria), Fruii (Belgium), Affligem (Belgium), and many more yet to be announced.
+Over sixty varieties of International beer are confirmed to date from the following breweries:  MolsonCoors, Labatt Breweries, Pumphouse Brewery (Moncton), Picaroons Brewing Company (Fredericton), Garrison Brewery (Halifax),  Erdinger Weissbrau (Germany),  RockBottom Brewpub (Halifax), Stiegl (Austria), Fruii (Belgium), Affligem (Belgium), and many more yet to be announced.
 
 In addition to the beer and food sampling sessions, each evening will culminate with a variety of entertainment within two distinct tents, each offering a genre of entertainment different from the other. This eclectic mix of entertainment will bring the flavour of many different events together in one convenient location on the new Charlottetown event grounds on the corner of Grafton St and Water St.
 

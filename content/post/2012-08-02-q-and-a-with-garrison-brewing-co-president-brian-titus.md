@@ -55,7 +55,7 @@ BT: Regarding the second of the special edition beers, I can’t speak to the sp
 
 ACBB: Why did you decide to create the Ultimate Brew Off competition and has this year’s style been decided?
 
-BT: We started the home brewing competition 4 years ago as a way to connect with the local enthusiast.  It's grown quite a bit over the years, this past year we had 62 entries which makes it a challenge to give each sample the time they deserve. We may have to restrict the number of entries this year as a result.
+BT: We started the home brewing competition 4 years ago as a way to connect with the local enthusiast.  It's grown quite a bit over the years, this past year we had 62 entries which makes it a challenge to give each sample the time they deserve. We may have to restrict the number of entries this year as a result.
 
 We strive to pick a style that is both interesting but makes sense for those without elaborate setups.
 

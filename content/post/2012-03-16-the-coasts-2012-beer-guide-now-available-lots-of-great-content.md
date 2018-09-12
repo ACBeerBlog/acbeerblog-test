@@ -18,12 +18,12 @@ url: /2012/03/16/the-coasts-2012-beer-guide-now-available-lots-of-great-content/
 wordpress_id: 757
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/03/revused-header1.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/03/revused-header1.jpg) [The Coast's 2012 Beer Guide](http://www.thecoast.ca/halifax/beer-guide/Category?oid=1088150) is now available.  There are several great articles including:
+[![](http://acbeerblog.ca/wp-content/uploads/2012/03/revused-header1.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/03/revused-header1.jpg) [The Coast's 2012 Beer Guide](http://www.thecoast.ca/halifax/beer-guide/Category?oid=1088150) is now available.  There are several great articles including:
 
 
 
 	
-  * [A story about a 5th-generation Texan](http://www.thecoast.ca/halifax/halifaxs-beer-ambassador/Content?oid=3062760), Chuck Gillis, who is an all round great guy and a huge fan of Maritime Beer.  I've never actually met Chuck but seeing as how [he had a link to my blog](http://chuckgillis.tumblr.com/post/15383452377/new-atlantic-canada-beer-blog) within its first week of existence he must be a great guy.
+  * [A story about a 5th-generation Texan](http://www.thecoast.ca/halifax/halifaxs-beer-ambassador/Content?oid=3062760), Chuck Gillis, who is an all round great guy and a huge fan of Maritime Beer.  I've never actually met Chuck but seeing as how [he had a link to my blog](http://chuckgillis.tumblr.com/post/15383452377/new-atlantic-canada-beer-blog) within its first week of existence he must be a great guy.
 
 	
   * Some amusing stories about [home brewing gone bad](http://www.thecoast.ca/halifax/home-brew-disasters/Content?oid=3062762).

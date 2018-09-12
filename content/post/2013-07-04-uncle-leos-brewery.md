@@ -51,7 +51,7 @@ For now we are coming out with a red ale and a west coast style IPA. Down the ro
 
 **Do you have a favorite beer style? Brewery? Beer? Any hobbies outside of brewing?**
 
-Not really. I guess I'm biased towards British ales, but i'm open to anything, really. What I really like is trying new beers; I think that's pretty normal for craft beer drinkers. If I ever get the time again, I'd really like to get back into sailing.
+Not really. I guess I'm biased towards British ales, but i'm open to anything, really. What I really like is trying new beers; I think that's pretty normal for craft beer drinkers. If I ever get the time again, I'd really like to get back into sailing.
 
 **From whom have you learned the most in respect to brewing?**
 
@@ -63,7 +63,7 @@ I guess most of what I know at this point is self taught, or stuff I learned fro
 
 **How was the launch on the weekend?**
 
-It was great! We sold out of growlers on the first day.  Our nearest estimate is over 500 people during the 2 day opening.  We expected to be busy but not lined up to the road all day.  It was incredible.  We were filling in that back as fast as we could and still couldn't quite keep up.
+It was great! We sold out of growlers on the first day.  Our nearest estimate is over 500 people during the 2 day opening.  We expected to be busy but not lined up to the road all day.  It was incredible.  We were filling in that back as fast as we could and still couldn't quite keep up.
 
 
 

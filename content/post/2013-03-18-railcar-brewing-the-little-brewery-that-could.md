@@ -34,7 +34,7 @@ I have been home brewing for about 10 years and love all things craft beer relat
 
 **What steps have you been taking to get everything started? Do you have any partners involved with Railcar Brewing?**
 
-Right now it's just myself involved in the brewery, although I am entertaining taking a partner on. I have been building up gear over the last two years in preparation of opening. So far I have been doing  everything out of pocket and am looking at about $15,000 more in equipment costs to start up. One of the first things we did was come up with the name and logo and get our merchandise (hats, shirts, hoodies, glasses) made and have been selling that and reinvesting the monies right back into the business.
+Right now it's just myself involved in the brewery, although I am entertaining taking a partner on. I have been building up gear over the last two years in preparation of opening. So far I have been doing  everything out of pocket and am looking at about $15,000 more in equipment costs to start up. One of the first things we did was come up with the name and logo and get our merchandise (hats, shirts, hoodies, glasses) made and have been selling that and reinvesting the monies right back into the business.
 
 **Tell me a bit about Rail Car Brewing's initial beers. Are you planning on concentrating on a particular style, or styles of beer?**
 
@@ -42,7 +42,7 @@ We will be offering three main lines year round. Shogomoc Stout, Boxcar Blonde a
 
 **What type of brewing system do you plan on using initially? How do you plan on distributing your beers?**
 
-We will be using an [all-electric 50 L Braumeister system](http://www.speidels-braumeister.de/The-Braumeister:_:21.html) with six 60 Gallon fermenter tanks to launch with. We plan on "brewing small and selling it all". At first we will just offer Growler and keg sales direct from the brewery as well as having local accounts featuring our ales.
+We will be using an [all-electric 50 L Braumeister system](http://www.speidels-braumeister.de/The-Braumeister:_:21.html) with six 60 Gallon fermenter tanks to launch with. We plan on "brewing small and selling it all". At first we will just offer Growler and keg sales direct from the brewery as well as having local accounts featuring our ales.
 
 **Have you had any assistance with other breweries in the area through the whole process?**
 

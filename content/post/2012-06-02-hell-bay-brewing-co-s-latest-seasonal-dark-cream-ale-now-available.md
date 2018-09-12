@@ -14,7 +14,7 @@ url: /2012/06/02/hell-bay-brewing-co-s-latest-seasonal-dark-cream-ale-now-availa
 wordpress_id: 1326
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/06/hell-bay.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/06/hell-bay.jpg)[Hell Bay Brewing Company](http://www.hellbaybrewing.com/)'s latest seasonal brew, Dark Cream Ale, is now available.  The revamped brew, which was available last year as well,  is described on the company's [Facebook page](http://www.facebook.com/Hellbaybrewing):
+[![](http://acbeerblog.ca/wp-content/uploads/2012/06/hell-bay.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/06/hell-bay.jpg)[Hell Bay Brewing Company](http://www.hellbaybrewing.com/)'s latest seasonal brew, Dark Cream Ale, is now available.  The revamped brew, which was available last year as well,  is described on the company's [Facebook page](http://www.facebook.com/Hellbaybrewing):
 
 
 <blockquote>This time around more hops were added to balance the beer's roasted malt profile. Brewed using the traditional Cream Ale style, our Dark Cream Ale has hints of chocolate and coffee with a creamy mouth feel.</blockquote>

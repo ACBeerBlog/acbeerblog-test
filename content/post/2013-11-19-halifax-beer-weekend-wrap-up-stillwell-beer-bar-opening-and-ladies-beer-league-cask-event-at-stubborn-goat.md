@@ -24,7 +24,7 @@ To complement the excellent beer, the food has to be world-class as well, and ch
 
 [caption id="attachment_4045" align="aligncenter" width="627"][![Downstairs to the arcade machines](http://acbeerblog.ca/wp-content/uploads/2013/11/stillwell3.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/11/stillwell3.jpg) Downstairs to the arcade machines[/caption]
 
-The atmosphere downstairs was that of a New York subway station, with tiled walls and benches to match. A small space to chill with friends while awaiting your turn on the pinball machine, which was quite popular all weekend. Be sure to visit this new favourite for craft beer lovers in Halifax. They are open 4pm-2am Mon-Sat (closed Tuesday), and 11-11 Sundays.
+The atmosphere downstairs was that of a New York subway station, with tiled walls and benches to match. A small space to chill with friends while awaiting your turn on the pinball machine, which was quite popular all weekend. Be sure to visit this new favourite for craft beer lovers in Halifax. They are open 4pm-2am Mon-Sat (closed Tuesday), and 11-11 Sundays.
 
 On Sunday, the [Ladies Beer League](https://www.facebook.com/LadiesBeerDrinkingLeague) held their Cask Event at [The Stubborn Goat](http://www.stubborngoat.ca/). We attended the afternoon session, and had a wonderful time catching up with friends from far and wide.
 

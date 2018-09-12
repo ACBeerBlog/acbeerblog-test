@@ -23,7 +23,7 @@ Happy IPA Day, everyone! This now-annual "national beer holiday" celebrates what
 
 "On August 1, share your photos, videos, blog posts, tasting notes, recipes and thoughts on IPA with the world. Be sure to tag your posts on Twitter, Instagram, Facebook, Pinterest, Google+ and other social media platforms with the #IPAday hashtag."
 
-Meanwhile, here's  what's planned for today by a few participating breweries in Atlantic Canada:
+Meanwhile, here's  what's planned for today by a few participating breweries in Atlantic Canada:
 
 • Would Greg Nash miss IPA Day? He's brewed up something special that will be pouring at the [Rockbottom](http://rockbottombrewpub.ca/) in Halifax: [Oak-Aged Double Hoppelganger](http://rockbottombrewpub.blogspot.ca/2013/07/ipa-day-oaked-aged-double-hoppelganger.html?utm_source=twitterfeed&utm_medium=twitter). This DIPA has an ABV of 10% and a calculated IBUs of 305, with tons of Summit, Chinook, Centennial, and Magnum hops. As expected, no growler fills on this bad boy.
 

@@ -16,7 +16,7 @@ wordpress_id: 3047
 
 [![Celtic Knot Logo](http://acbeerblog.ca/wp-content/uploads/2013/06/celticknot_logo.jpg?w=300)](http://acbeerblog.ca/wp-content/uploads/2013/06/celticknot_logo.jpg)
 
-New Brunswick continues to follow the trend of the rest of of North America - another craft brewery is opening, this time in the Riverview area. Owned by long-time homebrewer Bruce Barton,[ Celtic Knot Brewing](https://www.facebook.com/CelticKnotBrewing) will be having its launch party this [Sunday, June 23rd, at 3pm](https://www.facebook.com/events/186753664829570/), at [Marky's Laundromat](https://www.facebook.com/pages/Laundromat-Expresso-Bar/133734576637538) in Moncton. We recently exchanged emails with Bruce to get some details on what he has planned for beer lovers in the area.
+New Brunswick continues to follow the trend of the rest of of North America - another craft brewery is opening, this time in the Riverview area. Owned by long-time homebrewer Bruce Barton,[ Celtic Knot Brewing](https://www.facebook.com/CelticKnotBrewing) will be having its launch party this [Sunday, June 23rd, at 3pm](https://www.facebook.com/events/186753664829570/), at [Marky's Laundromat](https://www.facebook.com/pages/Laundromat-Expresso-Bar/133734576637538) in Moncton. We recently exchanged emails with Bruce to get some details on what he has planned for beer lovers in the area.
 
 **I know you have quite a history of homebrewing. How long have you been attached to this hobby?**
 

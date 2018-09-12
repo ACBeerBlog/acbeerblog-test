@@ -18,7 +18,7 @@ wordpress_id: 11180
 
 
 
-[Sociable!](https://www.facebook.com/sociablefilm) is the passion project for Helen MacGillivray and Chris Thomas, two Nova Scotian filmmakers who spent weeks and months on the road, shooting during the 2015 [NS Craft Beer Week](http://nscraftbeer.ca/craftbeerweek/), touring the province's breweries and meeting the people behind the beer we all enjoy. The film is now ready for release, so we caught up with Chris and Helen to learn more about them and the film.
+[Sociable!](https://www.facebook.com/sociablefilm) is the passion project for Helen MacGillivray and Chris Thomas, two Nova Scotian filmmakers who spent weeks and months on the road, shooting during the 2015 [NS Craft Beer Week](http://nscraftbeer.ca/craftbeerweek/), touring the province's breweries and meeting the people behind the beer we all enjoy. The film is now ready for release, so we caught up with Chris and Helen to learn more about them and the film.
 
 **Can you tell us a little about yourselves?
 **Chris: I'm a Nova Scotian. I grew up here, went to university here, and then went to Ontario for graduate school and work. I'm a medical physicist at the cancer centre here in Halifax.

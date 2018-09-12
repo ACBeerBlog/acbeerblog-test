@@ -16,9 +16,9 @@ wordpress_id: 1455
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/06/canada_day_gift_box_small.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/06/canada_day_gift_box_small.jpg)
 
-_June 21st update - My contact at Innis & Gunn followed up with me today to let me know that they initially sent me the availability for another Innis & Gunn brew.    Canada Day 2012 is available in all provinces other than Newfoundland, PEI and Quebec._
+_June 21st update - My contact at Innis & Gunn followed up with me today to let me know that they initially sent me the availability for another Innis & Gunn brew.    Canada Day 2012 is available in all provinces other than Newfoundland, PEI and Quebec._
 
-_Editor's Note:  I recently had a representative from Innis & Gunn send me a press release regarding a limited edition Canada Day Beer.  In a follow up email they confirmed that the new beer is expected to be available in all provinces other than PEI including some of the N.S. Private Liquor Stores. _
+_Editor's Note:  I recently had a representative from Innis & Gunn send me a press release regarding a limited edition Canada Day Beer.  In a follow up email they confirmed that the new beer is expected to be available in all provinces other than PEI including some of the N.S. Private Liquor Stores. _
 
 INNIS & GUNN TO RELEASE CANADA DAY 2012 BEER SHOWCASING CANADIAN ARTWORK
 

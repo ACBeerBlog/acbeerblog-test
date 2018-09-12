@@ -18,17 +18,17 @@ wordpress_id: 1473
 
 June 22nd - I've changed the picture for this post from a generic Garrison picture to the label for the new brew.
 
-_Editor's Note:  Here's a press release I received from Garrison Brewing advising of the first of two new special 15th Anniversary beers they will be releasing.  _
+_Editor's Note:  Here's a press release I received from Garrison Brewing advising of the first of two new special 15th Anniversary beers they will be releasing.  _
 
 **FOR IMMEDIATE RELEASE**
 
 **Garrison celebrates 15 years of brewing-outside-the-box with the ****first of two anniversary brews**
 
-HALIFAX, NS – June 21, 2012 – One of Halifax's original microbreweries, Garrison Brewing Co. is celebrating 15 years of independently crafting award-winning, all-natural beer.  To commemorate this milestone, Garrison will release the first of two unique, specialty brews this Saturday.
+HALIFAX, NS – June 21, 2012 – One of Halifax's original microbreweries, Garrison Brewing Co. is celebrating 15 years of independently crafting award-winning, all-natural beer.  To commemorate this milestone, Garrison will release the first of two unique, specialty brews this Saturday.
 
 "This brew embodies how dynamic and exciting the local craft beer market has become over the past 15 years," says brewery President, Brian Titus. "Starting in 1997 with an Irish Red and Nut Brown ale, we now brew 21 brands, five craft sodas, barrel-age and cask-condition ales, and distribute in eight provinces - staggering really!"
 
-The theme for this first release is a celebration of a key brewing ingredient – hops!  A whopping 15 distinct hop varieties have been added to the boil along with loads of real mango's and fresh, shaved ginger.
+The theme for this first release is a celebration of a key brewing ingredient – hops!  A whopping 15 distinct hop varieties have been added to the boil along with loads of real mango's and fresh, shaved ginger.
 
 "This hazy, unfiltered brew has a dizzying blend of aromas and flavours such as pine, sweet tropical fruit and citrus. It really covers the full spectrum of what hops can deliver," says Garrison Brewmaster, Daniel Girard.
 

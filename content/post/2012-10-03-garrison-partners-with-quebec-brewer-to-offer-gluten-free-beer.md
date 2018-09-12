@@ -31,7 +31,7 @@ Only in business one year, BSG has already won gold, silver and bronze at the 20
 
 Glutenberg Blonde is now on sale at NSLC stores in Nova Scotia and PEILCC stores in Prince Edward Island. The process is underway to make the beer available in New Brunswick and Newfoundland and Labrador.
 
-_Editor's note_:  _Here are the tasting notes that accompanied the press release:_
+_Editor's note_:  _Here are the tasting notes that accompanied the press release:_
 
 
 <blockquote>The mouth bursts with white flowers, citrus and spicy flavours. With just a hint of bitterness to balance out the sweetness of the millet and the corn, this beer offers a truly refreshing taste.</blockquote>

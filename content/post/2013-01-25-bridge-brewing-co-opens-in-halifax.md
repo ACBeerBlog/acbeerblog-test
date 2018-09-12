@@ -24,7 +24,7 @@ Wednesday at 3pm marked the first day of business for the brewery at 2576 Agrico
 [caption id="attachment_2511" align="aligncenter" width="300"][![The Bridge Brewing sign mounted, minutes before opening](http://acbeerblog.ca/wp-content/uploads/2013/01/bridge_sign1.jpg?w=300)](http://acbeerblog.ca/wp-content/uploads/2013/01/bridge_sign1.jpg) The Bridge Brewing sign mounted, minutes before opening[/caption]
 
 
-After opening, the first dozen customers huddled inside, while owner Peter Burbridge and brewer Josh Herbin spoke about their two Belgian-inspired beers: Farmhouse Ale and Gus' 65m Blonde Ale. The Farmhouse has a solid malt sweetness balanced out with a refreshing tartness from the yeast and hop bitterness;  Big, Complex and refreshing. Candied Fruit Aroma (7.5% abv). The Gus' 65m Blonde has light fruit nose up front, citrus, background spice and a dry finish; a very refreshing session beer (6.5%).
+After opening, the first dozen customers huddled inside, while owner Peter Burbridge and brewer Josh Herbin spoke about their two Belgian-inspired beers: Farmhouse Ale and Gus' 65m Blonde Ale. The Farmhouse has a solid malt sweetness balanced out with a refreshing tartness from the yeast and hop bitterness;  Big, Complex and refreshing. Candied Fruit Aroma (7.5% abv). The Gus' 65m Blonde has light fruit nose up front, citrus, background spice and a dry finish; a very refreshing session beer (6.5%).
 
 
 

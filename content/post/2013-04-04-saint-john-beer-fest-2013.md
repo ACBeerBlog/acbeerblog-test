@@ -16,7 +16,7 @@ wordpress_id: 2656
 
 [![SJBeerFest](http://acbeerblog.ca/wp-content/uploads/2013/04/sjbeerfest.jpg?w=627)](http://acbeerblog.ca/wp-content/uploads/2013/04/sjbeerfest.jpg)
 
-The second annual Saint John Beerfest is taking place next Saturday, April 13th, from 7:30-9:30pm. It is being held in the [Market Square](http://www.marketsquaresj.com) Atrium, adjacent to the [Hilton Saint John](http://www3.hilton.com/en/hotels/new-brunswick/hilton-saint-john-STJHIHH/index.html). VIP Tickets for the fest are now sold out (allows entry at 7pm), but there are still some available for the regular session. They are only available in person or via phone at the [Harbour Station](http://www.harbourstation.ca/event/saint-john-beer-fest-1), and are $60.
+The second annual Saint John Beerfest is taking place next Saturday, April 13th, from 7:30-9:30pm. It is being held in the [Market Square](http://www.marketsquaresj.com) Atrium, adjacent to the [Hilton Saint John](http://www3.hilton.com/en/hotels/new-brunswick/hilton-saint-john-STJHIHH/index.html). VIP Tickets for the fest are now sold out (allows entry at 7pm), but there are still some available for the regular session. They are only available in person or via phone at the [Harbour Station](http://www.harbourstation.ca/event/saint-john-beer-fest-1), and are $60.
 
 The fest will feature 130+ beers, over 20% of which are not available at the [ANBL](http://www.nbliquor.com/). There will be roaming entertainment from [Atlantic Cirque](http://www.atlanticcirque.com/), with food from the [SJAH](http://www.saintjohnalehouse.com/),[ Smokin Pig BBQ](http://smokingpig.ca/) and [Grannans Seafood](http://www.grannanhospitalitygroup.com/grannans/) available. The event is also a fundraiser for [Ducks Unlimited](http://www.ducks.ca/).
 
@@ -26,7 +26,7 @@ The fest will feature 130+ beers, over 20% of which are not available at the [AN
 
 
 
-I spoke with organizer Peter Stoddard (also owner of the [Saint John Ale House](http://www.saintjohnalehouse.com/)) about the event.
+I spoke with organizer Peter Stoddard (also owner of the [Saint John Ale House](http://www.saintjohnalehouse.com/)) about the event.
 
 **The Market Atrium seems like a solid choice for venue, can you speak about the reasons why you chose it?**
 
@@ -94,7 +94,7 @@ It's year two, so we have learned a bit more about the flow of the space, what p
 
 
 
-The [provisional list](https://www.facebook.com/SaintJohnBeerFest/posts/431697533580339) of breweries, beers and tables has been posted to the [Saint John Beer Fest Facebook](https://www.facebook.com/SaintJohnBeerFest) page, and may change before the festival date. I see great beer from all of the Maritime Provinces, as well as some interesting imports on the list, so no one will leave thirsty!
+The [provisional list](https://www.facebook.com/SaintJohnBeerFest/posts/431697533580339) of breweries, beers and tables has been posted to the [Saint John Beer Fest Facebook](https://www.facebook.com/SaintJohnBeerFest) page, and may change before the festival date. I see great beer from all of the Maritime Provinces, as well as some interesting imports on the list, so no one will leave thirsty!
 
 
 

@@ -14,7 +14,7 @@ url: /2012/07/04/hart-and-thistle-releases-hop-rock-candy-mountain-v2-0-ipa-toda
 wordpress_id: 1512
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo.jpg)Hart & Thistle is releasing version [2.0 of its Hop Rock Candy Mountain](http://hartandthistle.blogspot.ca/2012/07/hop-rock-candy-mountain-v20-ipa.html) today at 11:00 AM.  The beer is described as:
+[![](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/07/hartandthistle_logo.jpg)Hart & Thistle is releasing version [2.0 of its Hop Rock Candy Mountain](http://hartandthistle.blogspot.ca/2012/07/hop-rock-candy-mountain-v20-ipa.html) today at 11:00 AM.  The beer is described as:
 
 
 <blockquote>an **East Coast style** **I**ndia **P**ale **A**le brewed with copious amounts of Citra and Columbus hops. **A redux of a classic H&T brew from days gone past**. The hefty melange of grains utilized in the brew lend some serious underlying malt balls, a candied-malt complexity that is like, well, a** Hop-Rock-Candy-M****ountain** of goodness.</blockquote>

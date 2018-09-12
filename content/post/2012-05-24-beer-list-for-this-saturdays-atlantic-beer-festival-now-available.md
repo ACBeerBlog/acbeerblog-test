@@ -598,27 +598,27 @@ Acadie-Broue will only be participating in the afternoon session.
 </tr>
 <tr >
 
-<td height="20" > Guinness 8 Pack
+<td height="20" > Guinness 8 Pack
 </td>
 </tr>
 <tr >
 
-<td height="20" > Kilkenny
+<td height="20" > Kilkenny
 </td>
 </tr>
 <tr >
 
-<td height="20" > Harp
+<td height="20" > Harp
 </td>
 </tr>
 <tr >
 
-<td height="20" > Smithwicks
+<td height="20" > Smithwicks
 </td>
 </tr>
 <tr >
 
-<td height="20" > Red Stripe
+<td height="20" > Red Stripe
 </td>
 </tr>
 <tr >

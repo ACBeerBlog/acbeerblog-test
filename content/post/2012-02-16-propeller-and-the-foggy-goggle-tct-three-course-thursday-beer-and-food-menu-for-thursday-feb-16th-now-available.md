@@ -15,7 +15,7 @@ url: /2012/02/16/propeller-and-the-foggy-goggle-tct-three-course-thursday-beer-a
 wordpress_id: 544
 ---
 
-[![](http://acbeerblog.ca/wp-content/uploads/2012/02/goggleandpropellor150x150.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/goggleandpropellor150x150.jpg)[Propeller](http://drinkpropeller.ca/content/TCT) and the [Foggy Goggle](http://thefoggygoggle.ca/events) have announced the latest combinations available for their Three Course Thursday (TCT) event.  For February 16th the menu will consist of:
+[![](http://acbeerblog.ca/wp-content/uploads/2012/02/goggleandpropellor150x150.jpg)](http://acbeerblog.ca/wp-content/uploads/2012/02/goggleandpropellor150x150.jpg)[Propeller](http://drinkpropeller.ca/content/TCT) and the [Foggy Goggle](http://thefoggygoggle.ca/events) have announced the latest combinations available for their Three Course Thursday (TCT) event.  For February 16th the menu will consist of:
 
 
 

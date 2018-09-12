@@ -17,4 +17,4 @@ wordpress_id: 1918
 
 [![](http://acbeerblog.ca/wp-content/uploads/2012/09/shiretownbeerlogo3.png)](http://acbeerblog.ca/wp-content/uploads/2012/09/shiretownbeerlogo3.png)
 
-[Shiretown Beer](http://shiretownbeer.com/) has launched it's first seasonal beer.  [Runnin Down the Road Amber Ale](https://www.facebook.com/shiretown/posts/525476264133703) is made from locally grown wild hops.  The beer is available in limited supply at the Artisan Café in Dalhousie, N.B. (where Shiretown Beer is brewed) and can also be purchased to go in growlers.
+[Shiretown Beer](http://shiretownbeer.com/) has launched it's first seasonal beer.  [Runnin Down the Road Amber Ale](https://www.facebook.com/shiretown/posts/525476264133703) is made from locally grown wild hops.  The beer is available in limited supply at the Artisan Café in Dalhousie, N.B. (where Shiretown Beer is brewed) and can also be purchased to go in growlers.

@@ -92,7 +92,7 @@ We're aiming for a December 1st opening, with a grand-opening party sometime mid
 
 
 
-An important aspect of our plan is having packaged beer in 16 oz cans. This will allow us to distribute through the ANBL stores, as well as exporting our beer to Nova Scotia, PEI, and also hopefully on to Ontario, Quebec and the US markets eventually. We will also have a taproom at our location where customers can fill growlers, buy cans, and enjoy a pint of our beer with a view of the brewery. We will be organizing regular brewery tours, too.
+An important aspect of our plan is having packaged beer in 16 oz cans. This will allow us to distribute through the ANBL stores, as well as exporting our beer to Nova Scotia, PEI, and also hopefully on to Ontario, Quebec and the US markets eventually. We will also have a taproom at our location where customers can fill growlers, buy cans, and enjoy a pint of our beer with a view of the brewery. We will be organizing regular brewery tours, too.
 
 
 
@@ -112,7 +112,7 @@ So far, we are going to be on tap at the [James Joyce](https://www.facebook.com/
 
 
 
-We plan on having two beers in cans, initially: _Roseway Red_ (6% ABV, 70 IBUs), a crisp and refreshing American Amber, and _Workhorse IPA_ (7.2% ABV, 70 IBUs), an American IPA. They will also be available in the taproom, along with two other rotating beers. Rotating beers will include _Birdseye Pale Ale_ (6% ABV, 55 IBUs), an easy-drinking APA; _Elevensies Espresso Stout_ (5% ABV, 43 IBUs), made with Fair Trade Organic espresso beans; _Rye IPA _(~7% ABV, 75 IBUs), made with Rye malted in Atlantic Canada; _Belgian Tripel_ (9.2% ABV, 25 IBUs), a golden Belgian ale with a dry, complex, fruity taste; and _Belgian Quadrupel_ (11.5% ABV), which has a very complex flavour, and is a real sipper that should appeal to wine drinkers... I hope to have this one ready by Christmas.
+We plan on having two beers in cans, initially: _Roseway Red_ (6% ABV, 70 IBUs), a crisp and refreshing American Amber, and _Workhorse IPA_ (7.2% ABV, 70 IBUs), an American IPA. They will also be available in the taproom, along with two other rotating beers. Rotating beers will include _Birdseye Pale Ale_ (6% ABV, 55 IBUs), an easy-drinking APA; _Elevensies Espresso Stout_ (5% ABV, 43 IBUs), made with Fair Trade Organic espresso beans; _Rye IPA _(~7% ABV, 75 IBUs), made with Rye malted in Atlantic Canada; _Belgian Tripel_ (9.2% ABV, 25 IBUs), a golden Belgian ale with a dry, complex, fruity taste; and _Belgian Quadrupel_ (11.5% ABV), which has a very complex flavour, and is a real sipper that should appeal to wine drinkers... I hope to have this one ready by Christmas.
 
 
 
@@ -165,7 +165,7 @@ Honestly, I want this to be fun for us, our staff, and anyone who drinks our bee
 **Do you personally have a favorite beer style? Beer? Brewery?**
 
 
-I'd say right now my favorite beer is [Orval](http://www.orval.be/en/home/Abbey).  I love Brett beers done well, and the Trappist monks have perfected the craft.
+I'd say right now my favorite beer is [Orval](http://www.orval.be/en/home/Abbey).  I love Brett beers done well, and the Trappist monks have perfected the craft.
 
 
 **Do you have a specific ingredient in brewing that you like to brew with? E.g. a specific malt and/or hop variety?**
@@ -173,11 +173,11 @@ I'd say right now my favorite beer is [Orval](http://www.orval.be/en/home/Abbey)
 
 
 
-I really like brewing with local ingredients. One of my current favourites are sumac berries. They have a very tart flavour that goes well with a Witbier. It's a summery beer, so I'll probably introduce that as a seasonal next summer.
+I really like brewing with local ingredients. One of my current favourites are sumac berries. They have a very tart flavour that goes well with a Witbier. It's a summery beer, so I'll probably introduce that as a seasonal next summer.
 
 
 **From what/where/whom have you learned the most in respect to brewing? **
 
 The people in the NBCBA have a wealth of knowledge and are willing to share it with anyone. For anyone interested in brewing, even just for fun, join the club. It's the second best thing that ever happened to my brewing.
 
-_We're excited to welcome yet another new brewery to Fredericton; we'll be keeping you up-to-date over the coming weeks as Maybee Brewing gets closer to their opening day. And stay tuned for news on their Grand Opening party as well! In the meantime, follow the brewery's progress through their [Facebook](https://www.facebook.com/maybeebrew?fref=ts), [Twitter](https://twitter.com/maybeebrew), and [Instagram](https://instagram.com/maybeebrew/) accounts for constant updates._
+_We're excited to welcome yet another new brewery to Fredericton; we'll be keeping you up-to-date over the coming weeks as Maybee Brewing gets closer to their opening day. And stay tuned for news on their Grand Opening party as well! In the meantime, follow the brewery's progress through their [Facebook](https://www.facebook.com/maybeebrew?fref=ts), [Twitter](https://twitter.com/maybeebrew), and [Instagram](https://instagram.com/maybeebrew/) accounts for constant updates._

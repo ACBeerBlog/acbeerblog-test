@@ -19,7 +19,7 @@ wordpress_id: 1941
 
 
 
-The Gahan Beer ([@**GahanBeer**](https://twitter.com/GahanBeer)) and PEI Brewing Company ([@**PEIBrew**](https://twitter.com/PEIBrew)) Twitter accounts  have announced that their Iron Horse Brown Ale will be on ANBL shelves in New Brunswick as of tomorrow.   The beer, [which won the 2012 Gold Medal in the Canadian Brewing Awards Brown Ale Category](http://www.canadianbrewingawards.com/winners/years/2012/),  is described on the [PEI Brewing Company website](http://www.peibrewingcompany.com/beers.html) as:
+The Gahan Beer ([@**GahanBeer**](https://twitter.com/GahanBeer)) and PEI Brewing Company ([@**PEIBrew**](https://twitter.com/PEIBrew)) Twitter accounts  have announced that their Iron Horse Brown Ale will be on ANBL shelves in New Brunswick as of tomorrow.   The beer, [which won the 2012 Gold Medal in the Canadian Brewing Awards Brown Ale Category](http://www.canadianbrewingawards.com/winners/years/2012/),  is described on the [PEI Brewing Company website](http://www.peibrewingcompany.com/beers.html) as:
 
 
 

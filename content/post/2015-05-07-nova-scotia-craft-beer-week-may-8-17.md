@@ -34,7 +34,7 @@ _Goseface Killah_ (5% ABV, 11 IBUs) - Gose is a German style of beer that up unt
 
 _Tom Waits for No One_ (8.1% ABV, 55 IBUs) - This is their big, dark beer, a Stout brewed with plenty of dark malts (Chocolate, Black, and Carafa II) to add all of the roasted and chocolate goodness you expect from this style of beer. Fermented with an English yeast strain, with real chocolate and coffee added in secondary
 
-_Burban Legend_ (5% ABV, 28 IBUs) - A Citrus American Pale Ale featuring several hop varieties (**Cascade**, **Falconer's Flight** and **Zythos**) to provide the "citrus" that you'd expect in a beer with this name. Along with 2-row, Pilsner, Amber and Crystal 30 L malts, they've also added some rye to "spice" things up a little bit.
+_Burban Legend_ (5% ABV, 28 IBUs) - A Citrus American Pale Ale featuring several hop varieties (**Cascade**, **Falconer's Flight** and **Zythos**) to provide the "citrus" that you'd expect in a beer with this name. Along with 2-row, Pilsner, Amber and Crystal 30 L malts, they've also added some rye to "spice" things up a little bit.
 
 _Crown on the Ground_ (4.3% ABV, 34 IBUs) - Good Robot's take on the Steam Beer, this amber-coloured brew is hopped differently than most takes on the style, featuring **Mt. Hood**, **Perle** and **Magnum** varieties. Fermented cool with a California Lager yeast, this sessionable ale should exhibit an enjoyable malt character, backed by a firm bitterness in the finish.
 
@@ -42,11 +42,11 @@ _Crown on the Ground_ (4.3% ABV, 34 IBUs) - Good Robot's take on the Steam Beer,
 
 _Belgian Pale Ale_ (5% ABV, 35 IBUs) - A hop-forward beer of the BPA style, think of it as an American Pale Ale with Belgian yeast character. Brewed with Belgian malt varieties, the beer was first-wort hopped with **Columbus**, and again during the boil at 30 minutes with the New Zealand **Wakatu** variety. Featuring further additions late in the boil and in the dry-hop with **Amarillo**, expect a fruity and citrusy beer! Fermented with the [Belgian Abbey II](http://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=130) yeast strain to allow the malt character to shine through.
 
-Also note that North will be releasing this year's version of their popular _Glenora Strong Dark Belgian_. The second time their _Strong Dark Belgian_ has aged in their [Glenora](http://www.glenoradistillery.com/) whisky barrels (for 4 months), the long aging period allows the strong flavours to blend nicely. Available only in 650 mL bottles, the beer should continue to mellow as it is aged for months (or years!) to come.
+Also note that North will be releasing this year's version of their popular _Glenora Strong Dark Belgian_. The second time their _Strong Dark Belgian_ has aged in their [Glenora](http://www.glenoradistillery.com/) whisky barrels (for 4 months), the long aging period allows the strong flavours to blend nicely. Available only in 650 mL bottles, the beer should continue to mellow as it is aged for months (or years!) to come.
 
 [Authentic Seacoast...](http://www.rarebirdbeer.com/)
 
-_Rare Bird Red Ale_ (5% ABV, 25 IBUs) - With a grist including roasted malts and Canadian Rye malt, this new amber-coloured beer features aromas of toffee and smoke, and similar flavours (including some spiciness from the Rye) that are balanced from the addition of American-style hops.
+_Rare Bird Red Ale_ (5% ABV, 25 IBUs) - With a grist including roasted malts and Canadian Rye malt, this new amber-coloured beer features aromas of toffee and smoke, and similar flavours (including some spiciness from the Rye) that are balanced from the addition of American-style hops.
 
 [Tatamagouche Brewing....](http://tatabrew.com/)
 
@@ -56,7 +56,7 @@ _Giantess Barleywine_ (11% ABV, 90 IBUs) – Named after [Anna Swan](http://en.w
 
 _Two Rivers Baltic Porter_ (8% ABV, 36 IBUs) – Fermented with Lager yeast and cold-conditioned, and hopped with Czech **Saaz**, expect this one to be full-bodied, and “very smooth with hints of chocolate”, according to the brewery.
 
-_Rum Barrel-Aged Dreadnot IBA_ (11.5% ABV, 52 IBUs) – Their standard _Dreadnot IBA_, but aged in fresh [Ironworks](http://www.ironworksdistillery.com/) rum barrels for an additional 4 months. Jumping from its original 7% ABV after the barrel aging, it’s currently exhibiting lots of rum presence, including vanilla. Hopped with **Waimea**, **El Dorado**, and **Cascade**.
+_Rum Barrel-Aged Dreadnot IBA_ (11.5% ABV, 52 IBUs) – Their standard _Dreadnot IBA_, but aged in fresh [Ironworks](http://www.ironworksdistillery.com/) rum barrels for an additional 4 months. Jumping from its original 7% ABV after the barrel aging, it’s currently exhibiting lots of rum presence, including vanilla. Hopped with **Waimea**, **El Dorado**, and **Cascade**.
 
 
 
@@ -285,7 +285,7 @@ This fun-filled evening of science is one of the Signature Events during Nova Sc
 
 [Beer Dinner ft. North Brewing at Lion & Bright](http://localconnections.ca/events/view/524/beer-dinner-at-lion-bright-ft-north-brewing%20)
 7:00pm-10:00pm
-Join Lion & Bright for some North End Love with their neighbour North Brewing Co. for a four-course locally sourced dinner, paired with four locally crafted brews. Spend the evening enjoying the menu created by Chef Kristy Burgess, inspired by the beer of North Brewing. Menu items include mussel bouillabaisse, beer pretzels, IPA brined turkey roulade and rum raisin ice cream float. North Brewing will be answering questions about their Belgian inspired beer and how they are working towards creating a zero emission brewery right here in Halifax. Show the North End some love!
+Join Lion & Bright for some North End Love with their neighbour North Brewing Co. for a four-course locally sourced dinner, paired with four locally crafted brews. Spend the evening enjoying the menu created by Chef Kristy Burgess, inspired by the beer of North Brewing. Menu items include mussel bouillabaisse, beer pretzels, IPA brined turkey roulade and rum raisin ice cream float. North Brewing will be answering questions about their Belgian inspired beer and how they are working towards creating a zero emission brewery right here in Halifax. Show the North End some love!
 Only twenty tickets available. Please contact the event organizer with any allergies or dietary considerations.
 
 
@@ -302,7 +302,7 @@ Only twenty tickets available. Please contact the event organizer with any aller
 
 [Masters of Malt: A Beer Tasting for Everyone at Bishop's Cellar](https://bishopscellar.com/event/masters-of-malt-a-beer-tasting-for-everyone/)
 5:00pm-7:00pm
-Bishop’s Cellar may be known for impeccable wine selection and friendly service, but they're no strangers to a finely crafted brew. They're dedicated to providing beer full of quality ingredients and distinctive flavours that’s been produced with integrity.
+Bishop’s Cellar may be known for impeccable wine selection and friendly service, but they're no strangers to a finely crafted brew. They're dedicated to providing beer full of quality ingredients and distinctive flavours that’s been produced with integrity.
 In the spirit of the inaugeral Nova Scotia Craft Beer Week, join them for a very special beer tasting as they taste through some of the fun brews on their shelves. As always, they'll have some delicious, beer friendly bites catered.
 
 [NS Craft Beer Takeover at Spitfire Arms](http://www.spitfirearms.com/)

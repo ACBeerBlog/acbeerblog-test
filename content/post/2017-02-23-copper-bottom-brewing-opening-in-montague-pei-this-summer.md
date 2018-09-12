@@ -15,7 +15,7 @@ wordpress_id: 14883
 
 [![](http://acbeerblog.ca/wp-content/uploads/2019/02/CB-Social-Jan2820.jpeg)](http://acbeerblog.ca/wp-content/uploads/2019/02/CB-Social-Jan2820.jpeg)
 
-The little town of [Montague, PEI](https://www.townofmontaguepei.com/) (located on the eastern end of the Island) is going to be getting a lot bigger this coming summer... at least, beer-wise! Husband and wife team Ken Spears and Ashley Condon announced early this month that they plan on opening [Copper Bottom Brewing](https://copperbottombrewing.com/) sometime by mid-summer. This is one of two breweries scheduled to open in Montague in 2017 (the other being Montague Brewing), with Ken and Ashley planning to focus on live music, as well as beer, in the brewery's accompanying tap room. We've recently exchanged emails with Ken to find out what the couple have in store for when the brewery launches this summer...
+The little town of [Montague, PEI](https://www.townofmontaguepei.com/) (located on the eastern end of the Island) is going to be getting a lot bigger this coming summer... at least, beer-wise! Husband and wife team Ken Spears and Ashley Condon announced early this month that they plan on opening [Copper Bottom Brewing](https://copperbottombrewing.com/) sometime by mid-summer. This is one of two breweries scheduled to open in Montague in 2017 (the other being Montague Brewing), with Ken and Ashley planning to focus on live music, as well as beer, in the brewery's accompanying tap room. We've recently exchanged emails with Ken to find out what the couple have in store for when the brewery launches this summer...
 
 **Can you tell us a little bit about yourselves?
 **I am a Red Seal electrician turned brewer originally from Nova Scotia. My wife, Ashley Condon, is an award-winning songwriter and touring musician originally from Murray Harbour North, PEI. We live in the woods in rural PEI just outside of Montague and have a cat named Fiona. We enjoy hiking, the beach, and Ashley does yoga in the upper part of the “Brewdio” (the barn on our property that houses the "nanobrewery" and yoga/music studio)
@@ -35,7 +35,7 @@ The little town of [Montague, PEI](https://www.townofmontaguepei.com/) (located 
 **We are aiming so serve our first pint mid-summer 2017.
 
 **What size/manufacturer/type of system will you be brewing on? Expected output (monthly, yearly, etc)?
-**We have a [DME](http://www.dmebrewing.ca/) 10 BBL (~1170 L) system that has 7000 L cellar capacity to start with, and room to grow.
+**We have a [DME](http://www.dmebrewing.ca/) 10 BBL (~1170 L) system that has 7000 L cellar capacity to start with, and room to grow.
 
 **What are your plans for distribution? Plans for tap accounts, bottles, growlers, etc.? Are you licensed for on-site sales?**
 We will have several tap accounts across the Island with growler fills from the brewery, and eventually cans distributed to PEILCC stores. Our tap room - which overlooks the Montague river - will be set up for pints served daily.
@@ -58,4 +58,4 @@ We will have several tap accounts across the Island with growler fills from the 
 **How about a favourite style or ingredient to brew with?
 **I love brewing with the American "C" hops and Maris Otter malt.
 
-_It's fantastic to see yet another craft brewery planned to open in PEI, and we're looking forward to hearing more from Ken and Ashley over the coming months, with updates on their progress! Be sure to follow along on their website, as well as their [Facebook](https://www.facebook.com/copperbottombrew/) and [Twitter](https://twitter.com/copperbrews) accounts, and of course we'll be sure to include any news in our weekly Friday Wrap-Up._
+_It's fantastic to see yet another craft brewery planned to open in PEI, and we're looking forward to hearing more from Ken and Ashley over the coming months, with updates on their progress! Be sure to follow along on their website, as well as their [Facebook](https://www.facebook.com/copperbottombrew/) and [Twitter](https://twitter.com/copperbrews) accounts, and of course we'll be sure to include any news in our weekly Friday Wrap-Up._

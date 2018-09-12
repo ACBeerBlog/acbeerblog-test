@@ -17,7 +17,7 @@ wordpress_id: 7393
 ](http://acbeerblog.ca/wp-content/uploads/2016/07/FlyingBoats2.jpg)
 
 
-[Flying Boats Brewing](https://www.facebook.com/pages/Flying-Boats-Brewing/1580598582194710?fref=ts) is a new small scale brewery, recently opened in the [Shediac Bay, N.B.](https://www.google.com/maps/place/Shediac,+NB,+Canada/@46.2163929,-64.5305741,14z/data=!3m1!4b1!4m2!3m1!1s0x4ca090cfd54bcae3:0x4ad2ff2532837cef) region, by Marc Melanson. The "Flying Boats" moniker and beer names are a nod to the history of transportation in southeast New Brunswick, including its early aviation, railway, Ships and boats, and highway travel. This part of NB has a unique and interesting history that will be celebrated with full bodied and flavourful craft beers that will be tied to these stories. Marc was kind enough to answer a few questions about Flying Boats, his beers, and his brewing history.
+[Flying Boats Brewing](https://www.facebook.com/pages/Flying-Boats-Brewing/1580598582194710?fref=ts) is a new small scale brewery, recently opened in the [Shediac Bay, N.B.](https://www.google.com/maps/place/Shediac,+NB,+Canada/@46.2163929,-64.5305741,14z/data=!3m1!4b1!4m2!3m1!1s0x4ca090cfd54bcae3:0x4ad2ff2532837cef) region, by Marc Melanson. The "Flying Boats" moniker and beer names are a nod to the history of transportation in southeast New Brunswick, including its early aviation, railway, Ships and boats, and highway travel. This part of NB has a unique and interesting history that will be celebrated with full bodied and flavourful craft beers that will be tied to these stories. Marc was kind enough to answer a few questions about Flying Boats, his beers, and his brewing history.
 
 **ACBB: Is there something specific that got you into the world of craft beer?
 **I worked as an automotive engineer in Europe for 10 years and built a love for premium, good quality beers, as well as the dedication to the craft, especially in Germany. Upon returning to Canada in 1992 and being disappointed with returning to the local beers offered, I started to brew kits (not very good by today's standards, with info available and quality yeasts) and searching out the early micro breweries. Family years put a halt into home brewing until about 6-7 years ago when I started again and progressed all the way to All Grain.
@@ -41,14 +41,14 @@ I plan to distribute to southeastern NB tap accounts, the Fredericton area and s
 Due to my limited production capacity, I am focusing on a soft launch to selected restaurants/bars/licensees:
 
 [La Coast](https://www.facebook.com/pages/La-Coast-Restaurant-et-bar/223239781149406) - Main Street, Shediac
-[Auberge Gabriele Inn](http://www.aubergegabrieleinn.com/restaurant.html)- Main Street, Shediac
+[Auberge Gabriele Inn](http://www.aubergegabrieleinn.com/restaurant.html)- Main Street, Shediac
 [Ducky's](https://www.facebook.com/duckysbar?rf=313734088754461) - Bridge Street, Sackville
 
 Upcoming Events:
 [Tasting NB](https://etixnow.com/events/the-capital-complex-presents-tasting-nb/jul-11-2015/the-capital-complex) - July 11, Capitol Complex, Fredericton
 [Fredericton Craft Beer Run](http://www.eventbrite.ca/e/fredericton-beer-run-2015-tickets-14099759761) - Aug 3, Delta Fredericton, Fredericton
 
-**Can you tell us about the beers you plan on offering initially?**
+**Can you tell us about the beers you plan on offering initially?**
 I currently have three beers listed under the Flying Boats banner at ANBL, along with one Seasonal listing, in kegs to be sold to Licensees:
 Flying Boats _Dixie Clipper_ IPA
 Flying Boats _S-55 Special Mission_ Pale Ale
@@ -56,7 +56,7 @@ Flying Boats _Empress_ Irish Red Ale
 Current Seasonal:
 Flying Boats _Picnic Train_ Witbier
 
-I have submitted three more beers for full time listing by ANBL, which will go through the tasting and selection process later this month: An Extra Special Bitter, _Humpyard_ Steam Ale (California Common), and the _Picnic Train_ Witbier. There will be 5 or more new styles released in the fall and winter, as production increases.
+I have submitted three more beers for full time listing by ANBL, which will go through the tasting and selection process later this month: An Extra Special Bitter, _Humpyard_ Steam Ale (California Common), and the _Picnic Train_ Witbier. There will be 5 or more new styles released in the fall and winter, as production increases.
 
 **Have you had any assistance from other breweries or people in Atlantic Canada (or elsewhere)?**
 The craft beer brewing scene is pretty amazing with great camaraderie. I've received lots of verbal support, as well as help on transitioning to larger brewing systems thanks to Shane Steeves at Hammond River Brewing. Also, the online community of [The Brewnosers](http://www.brewnosers.org/) and the crew at [NBCBA](http://nbcba.org/forum/) and [NBCAPA](https://www.facebook.com/nbcapa) have been very helpful.
@@ -80,6 +80,6 @@ I tend to brew with a variety of ingredients, but I am starting to focus on a fe
 Books, Online, events, friends.... and most important.... brew, brew and more brewing to learn the nuances of the results with different hop schedules, malt mash temps, yeasts, temp control, etc....
 
 _Thanks again to Marc for answering our questions. Follow along with Flying Boats' releases of new beers and licensees on their [Facebook](https://www.facebook.com/pages/Flying-Boats-Brewing/1580598582194710?fref=nf) and [Twitter](https://twitter.com/FlyingBoatsBrew) pages. Be sure to drop by the spots in Shediac and Sackville to grab a pint of his beer today.
-__You can also meet and chat with Marc, as well as a dozen other NB Craft Alcohol Producers, at the [Tasting NB](https://etixnow.com/events/the-capital-complex-presents-tasting-nb/jul-11-2015/the-capital-complex) event this Saturday. There, Flying Boats Brewing will be serving their current seasonal beers:
+__You can also meet and chat with Marc, as well as a dozen other NB Craft Alcohol Producers, at the [Tasting NB](https://etixnow.com/events/the-capital-complex-presents-tasting-nb/jul-11-2015/the-capital-complex) event this Saturday. There, Flying Boats Brewing will be serving their current seasonal beers:
 __**Humpyard Steam Ale**, a California Common Ale (aka Steam Ale) that has typical Pale Ale ingredients, but is fermented with a Lager yeast at elevated temperature. This creates a nice malty caramel flavour balanced with Northern Brewer hops and a crisp finish taste, and comes in at 5.8% ABV and 46 IBUs.
 __**Stove Pipe Gang Black IPA**, a full-flavoured dark malt ale with plenty of hops (4 varieties) including a dry hop for aroma. It weighs in at 6.9% ABV and has 96 IBUs._

@@ -18,7 +18,7 @@ wordpress_id: 6245
 
 
 
-Prince Edward Island will soon be increasing its production of craft beer, as [Upstreet Craft Brewing](http://upstreetcraftbrewing.com) has announced plans to open this Summer in downtown Charlottetown. Started by friends Mitch Cobb, Michael Hogan, and Joey Seaman, the brewery and tasting room will be located at [41 Allen St](https://goo.gl/maps/rHVgC). All three were nice enough to provide a bit of background on themselves, and fill us in on the roles they will play in the brewery:
+Prince Edward Island will soon be increasing its production of craft beer, as [Upstreet Craft Brewing](http://upstreetcraftbrewing.com) has announced plans to open this Summer in downtown Charlottetown. Started by friends Mitch Cobb, Michael Hogan, and Joey Seaman, the brewery and tasting room will be located at [41 Allen St](https://goo.gl/maps/rHVgC). All three were nice enough to provide a bit of background on themselves, and fill us in on the roles they will play in the brewery:
 
 
 
@@ -38,7 +38,7 @@ _Joey Seaman:_ Joey has worked in sales, marketing, business development and man
 
 
 
-Last month, we exchanged emails with head brewer Hogie to get a bit of background on his brewing history, and what he and the others have planned for Upstreet when they open. We're happy to share that information, now!
+Last month, we exchanged emails with head brewer Hogie to get a bit of background on his brewing history, and what he and the others have planned for Upstreet when they open. We're happy to share that information, now!
 
 
 
@@ -58,7 +58,7 @@ My friend Aaron was the first of our group to start making his own beer and wine
 
 
 
-Shortly after moving to St. John’s in 2009, I purchased my own homebrewing equipment and was making beer with liquid extract canned kits, by boiling them and adding my own hops. One of the earliest batches was a honey-brown with Fuggles. I was mostly satisfied with the end result, but knew that I wanted to have more control over the final flavours. That Christmas, I received Charlie Papazian's _The Joy Of Homebrewing_ and couldn't put it down once I started reading about all-grain brewing and alpha-amylase. A couple of weeks later, I was at Home Depot, buying the hardware for my cooler mash tun, while a bag of barley and wheat malt sat in the car, waiting to become my first all-grain Hefeweizen. In similar fashion to Charlie Papazian’s first batch, by the end of the day the kitchen was an absolute disaster and every pot and utensil we owned was dirty. The efficiency was low but the satisfaction was high. I've come a long way since then, but the one thing that hasn't changed is the pride that comes with crafting something from scratch.
+Shortly after moving to St. John’s in 2009, I purchased my own homebrewing equipment and was making beer with liquid extract canned kits, by boiling them and adding my own hops. One of the earliest batches was a honey-brown with Fuggles. I was mostly satisfied with the end result, but knew that I wanted to have more control over the final flavours. That Christmas, I received Charlie Papazian's _The Joy Of Homebrewing_ and couldn't put it down once I started reading about all-grain brewing and alpha-amylase. A couple of weeks later, I was at Home Depot, buying the hardware for my cooler mash tun, while a bag of barley and wheat malt sat in the car, waiting to become my first all-grain Hefeweizen. In similar fashion to Charlie Papazian’s first batch, by the end of the day the kitchen was an absolute disaster and every pot and utensil we owned was dirty. The efficiency was low but the satisfaction was high. I've come a long way since then, but the one thing that hasn't changed is the pride that comes with crafting something from scratch.
 
 
 **What made you decide to take the step into brewing professionally?**
@@ -76,7 +76,7 @@ We've been working on this for well over a year now and learned very quickly the
 **What size/type of system will you be brewing on?**
 
 
-We'll be brewing on a 15bbl (~17 hL) system from our neighbours, DME. Our equipment should be arriving soon, with installation happening in April.
+We'll be brewing on a 15bbl (~17 hL) system from our neighbours, DME. Our equipment should be arriving soon, with installation happening in April.
 
 
 
@@ -126,7 +126,7 @@ We can't comment on specific styles right now, but I can say the beers are all b
 
 
 
-Upstreet is an old PEI saying - like… “Johnny’s headed’ upstreet to meet the fellas”. It’s typically a term used for a spot just outside of downtown.  It’s perfectly fitting with our Allen St. location.  It also reflects our hopes to be rooted in the local community.  We're all Island guys who have spent some time away, but are so happy to be putting down roots and pursuing our passions on home turf.  We love this town, and we just love the name.
+Upstreet is an old PEI saying - like… “Johnny’s headed’ upstreet to meet the fellas”. It’s typically a term used for a spot just outside of downtown.  It’s perfectly fitting with our Allen St. location.  It also reflects our hopes to be rooted in the local community.  We're all Island guys who have spent some time away, but are so happy to be putting down roots and pursuing our passions on home turf.  We love this town, and we just love the name.
 
 
 **Have you had any assistance from other breweries/people in Atlantic Canada (or elsewhere)?**
@@ -158,7 +158,7 @@ Early on, we hope our beers permeate through the local restaurant scene and that
 **Do you personally have a favorite beer style? Beer? Brewery?**
 
 
-I enjoy all beer styles and I've taken inspiration from all of the breweries I've visited, big and small. I won't list them all, but some of the highlights include: Chimay, Pilsner Urquell, Stone, The Alchemist, Allagash, Garrison, Boxing Rock, and here at home, [BarNone](https://www.facebook.com/BarNone.Brewing) and [PEI Brewing Company](http://peibrewingcompany.com/).
+I enjoy all beer styles and I've taken inspiration from all of the breweries I've visited, big and small. I won't list them all, but some of the highlights include: Chimay, Pilsner Urquell, Stone, The Alchemist, Allagash, Garrison, Boxing Rock, and here at home, [BarNone](https://www.facebook.com/BarNone.Brewing) and [PEI Brewing Company](http://peibrewingcompany.com/).
 
 
 
@@ -173,7 +173,7 @@ Not really… anything’s fair game for me. I'll brew anything, with anything. 
 
 
 
-**From what/where/whom have you learned the most in respect to brewing? **
+**From what/where/whom have you learned the most in respect to brewing? **
 
 
 

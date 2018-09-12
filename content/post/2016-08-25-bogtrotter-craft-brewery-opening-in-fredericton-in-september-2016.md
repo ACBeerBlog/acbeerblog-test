@@ -19,7 +19,7 @@ The number of craft breweries in New Brunswick continues to rise, as [Bogtrotter
 
 **Can you tell us a little bit about yourself?**
 
-I served in the military for 23 years, and I got out about 4 years ago. I retired in Alberta from the [PPCLI](https://en.wikipedia.org/wiki/Princess_Patricia%27s_Canadian_Light_Infantry), and worked as a realtor in the province.  My wife and I then decided to move back home - I grew up in the Fredericton and Oromocto area, and have strong family ties to the area.
+I served in the military for 23 years, and I got out about 4 years ago. I retired in Alberta from the [PPCLI](https://en.wikipedia.org/wiki/Princess_Patricia%27s_Canadian_Light_Infantry), and worked as a realtor in the province.  My wife and I then decided to move back home - I grew up in the Fredericton and Oromocto area, and have strong family ties to the area.
 
 **How did you get into the world of craft beer?**
 
@@ -33,7 +33,7 @@ Currently I am running the brewery myself out of my home. I have a 1 BBL (115 L)
 
 **When exactly do you plan on launching next month?**
 
-I'm launching with three beers on Saturday, September 24th. We will be starting at the [Station (ANBL)](http://www.nbliquor.com/Home/Station) downtown with _Saturday Sips in the Afternoon_, followed by a stop at another establishment (hopefully, still working on the details), and finishing up with an event at the [James Joyce](https://www.facebook.com/JamesJoyceCP/?fref=ts) at 8:00 pm.
+I'm launching with three beers on Saturday, September 24th. We will be starting at the [Station (ANBL)](http://www.nbliquor.com/Home/Station) downtown with _Saturday Sips in the Afternoon_, followed by a stop at another establishment (hopefully, still working on the details), and finishing up with an event at the [James Joyce](https://www.facebook.com/JamesJoyceCP/?fref=ts) at 8:00 pm.
 
 **What are your plans for distribution?**
 

@@ -24,7 +24,7 @@ Glenholme, NS – September 1, 2012 – This Saturday, Nova Scotia’s largest h
 
 “We’re really excited to continue our partnership with Garrison Brewery” said Evan Price, co-owner of FiddleHop Farms. “We were very pleased with the ‘3 Fields Harvest Ale’ which was made in collaboration with hops from our field and 3 other hops producers in the province. We have an exceptional yield of crops this year and we are proud that our hops and farm will be a part of such a great product!”
 
-“It has been a full season of overcoming obstacles, while using organic pest control and nutrient management techniques” co-owner Jason Pelley added.  “We’re very proud to be a part of Nova Scotia’s farming community and contribute to a completely Nova Scotian beer.”
+“It has been a full season of overcoming obstacles, while using organic pest control and nutrient management techniques” co-owner Jason Pelley added.  “We’re very proud to be a part of Nova Scotia’s farming community and contribute to a completely Nova Scotian beer.”
 
 FiddleHop Farm works very closely with Garrison ‘Brewmaster’, Daniel Girard to ensure quality production for brewing. Each year all the hop farms in Nova Scotia who supply Garrison, harvest their crop on the same day and Garrison adds them to the kettle within a 24 hour period to create this special annual “wet hop” brew.
 

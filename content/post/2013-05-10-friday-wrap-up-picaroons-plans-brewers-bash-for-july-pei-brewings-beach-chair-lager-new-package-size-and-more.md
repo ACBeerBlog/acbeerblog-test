@@ -17,7 +17,7 @@ Good morning, craft beer fans! Here's the weekly craft beer news for your readin
 
 
 
-• [Picaroons](http://www.picaroons.ca/) has just announced they will be holding a Brewer's Bash on Saturday, July 13th in Officer's Square in Fredericton. From 11 am-11 pm, this "Canadian Craft Beer Celebration" will involve 60 Canadian breweries  pouring 300 beers. Advance tickets will cost $25, and go on sale May 14th on the event's [website](http://brewersbash.picaroons.ca/). Stay tuned for more information as it becomes available!
+• [Picaroons](http://www.picaroons.ca/) has just announced they will be holding a Brewer's Bash on Saturday, July 13th in Officer's Square in Fredericton. From 11 am-11 pm, this "Canadian Craft Beer Celebration" will involve 60 Canadian breweries  pouring 300 beers. Advance tickets will cost $25, and go on sale May 14th on the event's [website](http://brewersbash.picaroons.ca/). Stay tuned for more information as it becomes available!
 
 
 
@@ -37,12 +37,12 @@ Good morning, craft beer fans! Here's the weekly craft beer news for your readin
 
 
 
-• The Halifax breweries were all represented at the Local Connections ["Meet Your Local" Spring Gala](http://localconnections.ca/events/view/186/meet-your-local-spring-gala-and-fundraiser) last night at the Halifax Club. [Bridge Brewing](https://twitter.com/BridgeBrewing), [Garrison Brewing](https://twitter.com/garrisonbrewing) and [Propeller Brewing](https://twitter.com/PropellerBeer) were joined by food truck [Nomad Gourmet](https://twitter.com/nomadgourmet) and [Ratinaud French Cuisine](https://twitter.com/RatinaudHFX) in the Craft Brewer's Party Room.
+• The Halifax breweries were all represented at the Local Connections ["Meet Your Local" Spring Gala](http://localconnections.ca/events/view/186/meet-your-local-spring-gala-and-fundraiser) last night at the Halifax Club. [Bridge Brewing](https://twitter.com/BridgeBrewing), [Garrison Brewing](https://twitter.com/garrisonbrewing) and [Propeller Brewing](https://twitter.com/PropellerBeer) were joined by food truck [Nomad Gourmet](https://twitter.com/nomadgourmet) and [Ratinaud French Cuisine](https://twitter.com/RatinaudHFX) in the Craft Brewer's Party Room.
 
 
 
 
-• Several of our local breweries will be represented at the [Canadian Brewing Awards](http://www.canadianbrewingawards.com/), being held this weekend in Victoria, BC. Check out their gala (viewable by direct stream) Saturday at 10pm. Good luck to all of the brewers!
+• Several of our local breweries will be represented at the [Canadian Brewing Awards](http://www.canadianbrewingawards.com/), being held this weekend in Victoria, BC. Check out their gala (viewable by direct stream) Saturday at 10pm. Good luck to all of the brewers!
 
 
 
